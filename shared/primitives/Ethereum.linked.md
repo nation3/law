@@ -25,7 +25,4 @@ Token
 Transfer
 : Transfer of a Token to a given address (the “Receiving Address”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that (i) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that (A) provides for the reassociation of the Designated Token with the Receiving Address; and (B) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and (ii) such transaction has been Confirmed.
 
-Decentralized Autonomous Organization
-: An unincorporated association of individuals, entities, associations and/or other persons or groups of persons.
-
 ---

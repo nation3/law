@@ -22,4 +22,10 @@ Liable
 Lien
 : Any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset.
 
+Conflict of Interest
+: A situation in which a person has a duty to more than one person or organization, but cannot do justice to the actual or potentially adverse interests of both parties. This includes when an individual's personal interests or concerns are inconsistent with the best for a customer, or when a public official's personal interests are contrary to his/her loyalty to public business.
+
+Collusion
+: An agreement between two or more people to commit an act prohibited by law or to commit a lawful act by means prohibited by law.
+
 ---

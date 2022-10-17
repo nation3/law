@@ -1,5 +1,5 @@
 NATION
-: Import definitions TODO
+: Import definitions https://linked.md/api/fetch?path=nation3/law/main/shared/NATION.linked.md
 
 Judges Multisig
 : Import definitions TODO
