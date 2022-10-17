@@ -1,4 +1,4 @@
-Designated Blockchain as Ethereum
+Designated Blockchain as Ethereum, Token
 : Import definitions https://github.com/nation3/law/raw/main/definitions/EthereumPrimitives.linked.md
 
 NATION
