@@ -75,7 +75,7 @@ Judge shall not submit a new outcome for a dispute while a previous outcome is i
 
 ## Jurisdiction and dispute resolution
 
-:include[Dispute Resolution Clause]("Parties"="Nation3 DAO and Judge")
+:include[Dispute Resolution Clause]{"Parties"="Nation3 DAO and Judge"}
 
 ## Finalization
 
