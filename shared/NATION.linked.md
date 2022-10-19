@@ -1,5 +1,5 @@
 Designated Blockchain as Ethereum, Token
-: Import definitions https://linked.md/api/fetch?path=nation3/law/main/shared/primitives/Ethereum.linked.md
+: Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Ethereum.linked.md
 
 NATION
 : ERC20 Token living in Ethereum at address [%Address]

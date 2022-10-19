@@ -1,5 +1,8 @@
-Designated Blockchain as Ethereum, Decentralized Autonomous Organization as DAO
-: Import definitions https://linked.md/api/fetch?path=nation3/law/main/shared/primitives/Ethereum.linked.md
+Designated Blockchain as Ethereum
+: Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Ethereum.linked.md
+
+Decentralized Autonomous Organization as DAO
+: Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/DAO.linked.md
 
 Nation3 DAO Address
 : 0xC4E83d84Ca6F75c5b1D74CaA9DAD0d788c5ECa33
