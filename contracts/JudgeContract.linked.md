@@ -1,11 +1,11 @@
 NATION
-: Import definitions https://linked.md/api/fetch?path=nation3/law/main/shared/NATION.linked.md
+: Import definitions https://linked.md/api/github/nation3/law/main/shared/NATION.linked.md
 
 Judges Multisig
-: Import definitions TODO
+: Import definitions https://linked.md/api/github/nation3/law/main/Constitution.linked.md
 
 Conflict of Interest, Collusion
-: Import definitions TODO
+: Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Basic.linked.md
 
 Collateral Amount
 : 10 NATION
@@ -23,7 +23,7 @@ Finalization Notice Time
 : 30 days
 
 Dispute Resolution Clause
-: Import TODO
+: Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
 
 ---
 
