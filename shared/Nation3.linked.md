@@ -10,10 +10,13 @@ Nation3 DAO Address
 Nation3 DAO
 : The Nation3 DAO pushing forward the vision outlined in the Nation3 Manifesto, running on Ethereum at address [%Nation3 DAO Address].
 
+Nation3 Court
+: Dispute resolution system running on Ethereum, abiding to the laws enacted by the Nation3 DAO and following the process detailed in Nation3 Court Dispute Resolution Process.
+
 Nation3 Jurisdiction
 : Internet space bound by a set of laws enacted by Nation3 DAO and enforced by Nation3 Court.
 
-Nation3 Court
-: Dispute resolution system running on Ethereum, abiding to the laws enacted by the Nation3 DAO.
+Nation3 Contract
+: A Contract bound by the Nation3 Jurisdiction.
 
 ---

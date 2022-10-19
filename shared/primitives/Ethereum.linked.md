@@ -22,6 +22,9 @@ Consensus Attack
 Token
 : A digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of being uniquely associated with or "owned" by a particular public-key address on the Designated Blockchain Network at each particular block height.
 
+NFT
+: A Token with a unique identification code and metadata that distinguishes it from others.
+
 Transfer
 : Transfer of a Token to a given address (the “Receiving Address”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that (i) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that (A) provides for the reassociation of the Designated Token with the Receiving Address; and (B) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and (ii) such transaction has been Confirmed.
 

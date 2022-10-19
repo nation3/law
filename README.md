@@ -7,3 +7,16 @@ This repository contains drafts for all law related to Nation3. It's structured 
 - [Laws](laws): Laws within the Nation3 jurisdiction.
 - [Contracts](contracts): Contracts entered by the Nation3 DAO with relevant parties.
 - [Shared](shared): Legal definitions and clauses shared across the constitution, laws and contracts.
+
+## Governance
+
+```mermaid
+graph TD
+    Citizens -->|Govern| DAO
+    Court -->|Ensures constitutionality| Law
+    DAO -->|Enacts| Constitution
+    DAO -->|Elects| Court
+    DAO -->|Makes and changes| Law
+    Constitution -->|Takes priority over| Law
+    
+```

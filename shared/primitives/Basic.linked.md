@@ -2,7 +2,7 @@ Person
 : Any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.
 
 Contract
-: Any (i) written, oral, implied by course of performance or otherwise or other agreement, contract, understanding, arrangement, settlement, instrument, warranty, license, insurance policy, benefit plan or legally binding commitment or undertaking; or (ii) any representation, statement, promise, commitment, undertaking, right or obligation that may be enforceable, or become subject to an Order directing performance thereof, based on equitable principles or doctrines such as estoppel, reliance, or quasi-contract.
+: A legally enforceable agreement that creates, defines, and governs mutual rights and obligations among its parties.
 
 Claim
 : Any past, present or future dispute, claim, controversy, demand, right, obligation, liability, action or cause of action of any kind or nature.
