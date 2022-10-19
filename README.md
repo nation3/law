@@ -1,0 +1,1 @@
+# Nation3 laws ![Nation3 flag](https://nation3.org/flag.svg | width=100)
