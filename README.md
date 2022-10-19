@@ -18,7 +18,15 @@ graph TD
     DAO -->|Elects| Court
     DAO -->|Makes and changes| Law
     Constitution -->|Takes priority over| Law
-    
+    Court -->|Enforces law| Citizens
+```
+
+The interactions within private contracts are regulated by laws, which are regulated by the constitution.
+
+```mermaid
+graph BT
+    Constitution --> Laws
+    Laws --> Contracts
 ```
 
 ## Checks and balances
