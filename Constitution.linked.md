@@ -4,7 +4,7 @@ Constitution
 Manifesto
 : https://nation3.org/manifesto
 
-Person, Contract as Legal Contract
+Natural Person, Contract as Legal Contract
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Basic.linked.md
 
 Designated Blockchain as Ethereum, NFT
@@ -44,7 +44,7 @@ Passport
 : Digital passport issued as an NFT by the Passport Issuer.
 
 Citizen
-: Person owning a Passport after entering a Contract with the Nation3 DAO to honor the terms outlined in this Constitution.
+: Natural Person owning a Passport after entering a Contract with the Nation3 DAO to honor the terms outlined in this Constitution.
 
 Universal Declaration of Human Rights
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/external/UDHR.linked.md

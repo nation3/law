@@ -1,5 +1,5 @@
 Nation3 Jurisdiction, Nation3 Court
-: Import definitions https://linked.md/api/github/nation3/law/main/shared/Nation3.linked.md
+: Import definitions https://linked.md/api/github/nation3/law/main/Constitution.linked.md
 
 ---
 

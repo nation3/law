@@ -1,6 +1,9 @@
 Person
 : Any human, robot, bot, artificial intelligence, corporation, partnership, association or other individual or entity recognized as having the status of a person under the law.
 
+Natural Person
+: A living human being.
+
 Contract
 : A legally enforceable agreement that creates, defines, and governs mutual rights and obligations among its parties.
 
