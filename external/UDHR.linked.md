@@ -1,4 +1,11 @@
+Universal Declaration of Human Rights by the United Nations
+: https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
+
+---
+
 # Universal Declaration of Human Rights
+
+This document is derived from the original Universal Declaration of Human Rights by the United Nations.
 
 ## Article I
 All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
