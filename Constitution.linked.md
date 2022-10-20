@@ -10,14 +10,14 @@ Person, Contract as Legal Contract
 Designated Blockchain as Ethereum, NFT
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Ethereum.linked.md
 
-Decentralized Autonomous Organization as DAO
+Decentralized Autonomous Organization
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/DAO.linked.md
 
 DAO Address
 : 0xC4E83d84Ca6F75c5b1D74CaA9DAD0d788c5ECa33
 
  DAO
-: DAO pushing forward the vision outlined in the Manifesto, running on Ethereum at address [%DAO Address].
+: Decentralized Autonomous Organization pushing forward the vision outlined in the Manifesto, running on Ethereum at address [%DAO Address].
 
 NATION
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/NATION.linked.md
@@ -46,7 +46,14 @@ Passport
 Citizen
 : Person owning a Passport after entering a Contract with the Nation3 DAO to honor the terms outlined in this Constitution.
 
+Universal Declaration of Human Rights
+: https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/external/UDHR.linked.md
+
 ---
+
+# Constitution of Nation3
+
+[[toc]]
 
 ## The Republic and the Constitution
 
@@ -65,6 +72,7 @@ Who elects the judges
 Supermajority vote
 
 ## Fundamental Freedoms
+Nation3 adheres to the Universal Declaration of Human Rights.
 - Right to opt out without physical harm
 
 ## Citizenship
@@ -89,3 +97,5 @@ The DAO shall elect Judges
 
 
 
+Ecology, sustainability, animal rights
+https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf

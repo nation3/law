@@ -33,3 +33,9 @@ graph BT
 - Citizens are the ultimate governors of the Nation3 DAO, which shall have different voting mechanisms and thresholds for added checks and balances.
 - The Supreme Court is constituted by the Judges, which are to be elected by the Nation3 DAO every year. The Nation3 DAO can open a dispute against a Judge in case of a breach of their duties, who shall be dismissed if the charges are proven.
 - The Nation3 DAO shall pass laws, always in accordance with the Constitution, and the Supreme Court shall ensure their constitutionality.
+
+In terms of separation of powers, it can be framed as follows:
+- **Judicial**: Lies in the Supreme Court, elected by the DAO.
+- **Legislative**: Lies in the DAO.
+- **Executive**: Lies in the Guilds and other contributors, funded by the DAO.
+
