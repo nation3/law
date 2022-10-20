@@ -61,7 +61,7 @@ Universal Declaration of Human Rights
 Nation3 shall be a sovereign constitutional republic.
 
 ### Supremacy of Constitution
-This Constitution is the supreme law of Nation3 and any law enacted by the Legislature after the commencement of this Constitution which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
+This Constitution is the supreme law of Nation3 and any law enacted by the DAO after the commencement of this Constitution which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
 
 Who governs the DAO
 How to change constitution
@@ -69,17 +69,17 @@ How governance works (import specific example)
 Who elects the judges
 
 ### Amendment of Constitution
-Supermajority vote
+- Supermajority vote of Meta proposal, akin to the process described at https://github.com/nation3/gov.
 
 ## Fundamental Freedoms
 Nation3 adheres to the Universal Declaration of Human Rights.
-- Right to opt out without physical harm
+
+## Pledge to Earth
+- Pledge to sustainability, animal rights
 
 ## Citizenship
 - Right to access services provided by Nation3
 - What constitutes a valid passport (lock amount)
-
-## Governance
 
 ## Supreme Court
 ### Judicial power of Nation3
@@ -92,10 +92,10 @@ The Supreme Court consists of the signatories lawfully elected in the Judges Mul
 The DAO shall elect Judges
 
 ## Legislature
+- DAO might pass new laws with a combination of Proclamation + any on-chain proposals, akin to the process described at https://github.com/nation3/gov.
 
+## Executive
+- DAO will delegate executive powers to guilds and contributors, and the Guardian Guild shall be responsible for keeping those guilds on check in behalf of the DAO, as described at https://forum.nation3.org/t/proposal-for-internal-re-organisation/730.
 
-
-
-
-Ecology, sustainability, animal rights
-https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf
+## Governance
+Port https://github.com/nation3/gov to here.
