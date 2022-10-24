@@ -8,6 +8,8 @@ This repository contains drafts for all law related to Nation3. It's structured 
 - [Contracts](contracts): Contracts entered by the Nation3 DAO with relevant parties.
 - [Shared](shared): Legal definitions and clauses shared across the constitution, laws and contracts.
 
+All documents are written in [Linked Markdown](https://linked.md).
+
 ## Governance
 
 ```mermaid
