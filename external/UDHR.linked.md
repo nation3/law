@@ -4,7 +4,6 @@ Universal Declaration of Human Rights by the United Nations
 ---
 
 # Universal Declaration of Human Rights
-
 This document is derived from the original Universal Declaration of Human Rights by the United Nations.
 
 ## Article I
