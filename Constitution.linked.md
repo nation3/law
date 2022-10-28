@@ -120,6 +120,7 @@ The Supreme Court consists of the signatories lawfully elected in the Judges Mul
 ### Appointment of Supreme Court Judges
 The DAO shall not elect or dismiss a Judge arbitrarily.
 The DAO shall hold elections to appoint and dismiss the Judges every year.
+NOTE: Add the role of the Legal Guild as the ones that can propose Judges for the DAO to ratify, and add elections process for the Legal Guild.
 The DAO can dismiss a Judge in case of breach, as described in the Judge Contract.
 
 ## Legislature
@@ -128,7 +129,7 @@ The DAO can dismiss a Judge in case of breach, as described in the Judge Contrac
 - Proclamations are not and shall be described
 
 ## Executive
-- DAO will delegate executive powers to guilds and contributors, and the Guardian Guild shall be responsible for keeping those guilds on check in behalf of the DAO, as described at https://forum.nation3.org/t/proposal-for-internal-re-organisation/730.
+- DAO will delegate executive powers to guilds and contributors, and the Guardian Guild shall be responsible for keeping those guilds on check in behalf of the DAO, as described at https://forum.nation3.org/t/proposal-for-internal-re-organisation/730
 
 ## Land
 
