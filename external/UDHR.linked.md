@@ -49,7 +49,7 @@ No one shall be subjected to arbitrary interference with his privacy, family, ho
 
 ## Article 14
 1. Everyone has the right to seek and to enjoy in other countries asylum from persecution.
-2. This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.
+2. This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of Nation3.
 
 ## Article 15
 1. Everyone has the right to a nationality.
@@ -97,7 +97,7 @@ Everyone has the right to rest and leisure, including reasonable limitation of w
 
 ## Article 26
 1. Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.
-2. Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.
+2. Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of Nation3 for the maintenance of peace.
 3. Parents have a prior right to choose the kind of education that shall be given to their children.
 
 ## Article 27
@@ -110,7 +110,7 @@ Everyone is entitled to a social and international order in which the rights and
 ## Article 29
 1. Everyone has duties to the community in which alone the free and full development of his personality is possible.
 2. In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.
-3. These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.
+3. These rights and freedoms may in no case be exercised contrary to the purposes and principles of Nation3.
 
 ## Article 30
 Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.
