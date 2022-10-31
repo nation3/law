@@ -23,7 +23,7 @@ graph TD
     Court -->|Enforces law| Citizens
 ```
 
-The interactions within private contracts are regulated by laws, which are regulated by the constitution.
+The interactions within private contracts are regulated by laws, which are regulated by the Constitution.
 
 ```mermaid
 graph BT
@@ -33,11 +33,34 @@ graph BT
 
 ## Checks and balances
 - Citizens are the ultimate governors of the Nation3 DAO, which shall have different voting mechanisms and thresholds for added checks and balances.
-- The Supreme Court is constituted by the Judges, which are to be elected by the Nation3 DAO every year. The Nation3 DAO can open a dispute against a Judge in case of a breach of their duties, who shall be dismissed if the charges are proven.
+- The Nation3 DAO elects the Legal Guild every year, which has the responsibility of proposing the Judges for the DAO to ratify.
+- The Supreme Court is composed by the Judges. The Nation3 DAO can open a dispute against a Judge in case of a breach of their duties, who shall be dismissed if the charges are proven.
 - The Nation3 DAO shall pass laws, always in accordance with the Constitution, and the Supreme Court shall ensure their constitutionality.
+- The Nation3 DAO elects the Guardian Guild every year, which has the responsibility of overseeing providers and unlock their funding.
 
 In terms of separation of powers, it can be framed as follows:
-- **Judicial**: Lies in the Supreme Court, elected by the DAO.
+- **Judicial**: Lies in the Supreme Court, composed of the Judges.
 - **Legislative**: Lies in the DAO.
-- **Executive**: Lies in the Guilds and other contributors, funded by the DAO.
+- **Executive**: Lies in the guilds and other providers, funded by the DAO and overseen by the Guardian Guild.
 
+```mermaid
+graph TD
+    Citizens -->|Govern| DAO
+    DAO -->|Elects| Legal[Legal Guild]
+    Legal -->|Proposes| Judges
+    DAO -->|Ratifies| Judges
+    DAO -->|Elects| Guardian[Guardian Guild]
+    DAO -->|Funds| Providers
+    Guardian -->|Oversees| Providers
+```
+
+## Funding
+Nation3 DAO delegates executive functions to guilds and other providers. An agreement is entered by the DAO, the provider and the Guardian Guild. The DAO funds, the Guardian Guild oversees and releases the funding, and the provider delivers services.
+```mermaid
+graph TD
+    DAO -->|Funds| Agreement[Stream Agreement]
+    Provider -->|Provides services| Agreement
+    Guardian[Guardian Guild] -->|Oversees and releases funds| Agreement
+    Agreement -->|Is withdrawn| Provider
+    DAO -->|Elects| Guardian
+```
