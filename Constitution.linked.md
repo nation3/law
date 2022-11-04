@@ -125,7 +125,9 @@ Nation3 is formed as a sovereign constitutional republic governed by its Citizen
 Nation3 is a sovereign constitutional republic.
 
 ### DAO
-Nation3 DAO shall be the embodiment of Nation3 and its nexus with the Citizens. Nation3 DAO shall live as a Smart Contract and never surrender its sovereignty to any other state.
+Nation3 DAO shall be the embodiment of Nation3 and its nexus with the Citizens.
+
+Nation3 DAO shall live as a Smart Contract and never surrender its sovereignty to any other state.
 
 ### Legal Standing
 The Nation3 DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality under any other Jurisdiction. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership.
@@ -144,14 +146,16 @@ Nation3 adheres to the Universal Declaration of Human Rights and the Universal D
 All Citizens consent to and agree to become legally bound by this Constitution, enforceable in accordance with its terms under the laws of the Nation3 Jurisdiction.
 
 ### Identity
-Each Citizen shall be uniquely identified and referred to by their Passport held on their Ethereum Account. Every Citizen shall use such an Ethereum Account for interactions with the DAO.
+Each Citizen shall be uniquely identified and referred to by their Passport held on their Ethereum Account. Every Citizen shall use their Ethereum Account for interactions with the DAO.
 
 ### Rights of Citizenship
 Every Citizen shall have governance power over the DAO, as determined by this Constitution and the Designated Smart Contracts.
+
 Every Citizen shall have the right to access all services provided by Nation3.
 
 ### Acquiring Citizenship
 A Citizen is deemed so if holding a Passport in their Ethereum address and having cryptographically signed their agreement to this Constitution.
+
 The DAO might amend the processes to issue and distribute Passports by modifying the relevant Designated Smart Contracts.
 
 ### Losing Citizenship
@@ -168,8 +172,10 @@ Status as a Citizen does not (and shall not be deemed to) create, and Citizenshi
 Without limiting the generality of the foregoing, no Citizen shall be deemed the partner of the DAO or any other Citizen. No Citizen shall state, purport, imply, hold out or represent to any person that such Citizen or any other Citizen has any such authority, right or power.
 
 ### Liability
-Any Citizen might enter agreements regulated under the Nation3 Jurisdiction with any other Citizen and/or the DAO. Any Citizen, or the DAO, might only be rendered Liable for the assets present in such an agreement as determined by the Designated Smart Contracts.
+Any Citizen might enter Nation3 Jurisdiction Agreements with any other Citizen and/or the DAO. Any Citizen, or the DAO, might only be rendered Liable for the assets present in such an agreement as determined by the Designated Smart Contracts.
+
 Unless explicitly determined in Nation3 Jurisdiction Agreements, no Citizen shall be (or shall be deemed to be) Liable for any Liability of the DAO or any other Citizen.
+
 Unless explicitly determined in Nation3 Jurisdiction Agreements, this clause shall not (and shall not be deemed to) create or imply any obligation of the DAO or any Citizen to indemnify or compensate any Citizen from, or hold any Citizen harmless against, any Liabilities incurred by such Citizen under any applicable law, in connection with the Citizen's participation in the DAO or otherwise.
 
 ## Governance
@@ -186,7 +192,9 @@ Each Citizen shall be able to delegate such voting weight to another Ethereum Ac
 ### Alignment
 All Governance Proposals must clearly specify how they plan to increase the North Star Metrics.
 
-### Process
+### 
+
+
 Every Citizen shall be able to submit Governance Proposals. Governance Proposals shall be subject to a period in which any Citizen might dispute their constitutionality or North Star Metrics alignment in the Supreme Court.
 
 Governance Proposals shall be subject to the Governance Process.
@@ -195,7 +203,7 @@ Governance Proposals shall be subject to the Governance Process.
 Governance Proposals approved by Citizens shall be ratified by veNATION Holders on the DAO. Proposals for ratification on the DAO shall be submitted by the Guardian Guild, following the will of the Citizens.
 
 ### Committed Amendments
-The DAO commits to amend its Governance system, once technically possible, with the following changes:
+The DAO commits to amend its Governance Process, once technically possible, with the following changes:
 a) Incorporation of anonymous voting, with binding enactment, on Ethereum.
 b) Transferring the ratification power of veNATION Holders to Citizens.
 c) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild.
@@ -228,19 +236,21 @@ The DAO might not create law that contradicts this Constitution.
 
 ## Executive
 The Executive shall be vested in the Citizens through the DAO.
-The DAO can, as deemed convenient, delegate executive powers to contributors.
+The DAO can, as deemed convenient, delegate executive powers to Contributors.
 
 All Expense Governance Proposals must follow this process:
-a) The DAO will create a payment stream to the contributor.
-b) The Guardian Guild shall release funds from the stream only after ensuring that the deliverables, as detailed by the Contributor to the DAO, are indeed delivered.
-c) The Contributor might dispute the Guardian Guild’s judgment on the deliverables and take the matter to the Nation3 Supreme Court.
+a) The DAO shall create a payment stream to the contributor.
+b) The Guardian Guild shall release funds from the stream, only after ensuring that the deliverables, as stated by the Contributor to the DAO, are indeed delivered.
+c) The Contributor might dispute the Guardian Guild’s judgment on the subject and take the matter to the Supreme Court.
 
 ### Representation Powers
-The DAO can appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects.
+The DAO might appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects.
 
 ## Land
 Nation3 might acquire land on planet Earth or any other planet as deemed necessary.
+
 Nation3 might acquire sovereign land, land on Special Economic Zones, or land in other jurisdictions as deemed necessary.
+
 Nation3 might open local embassies in different jurisdictions.
 
 
