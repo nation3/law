@@ -192,9 +192,7 @@ Each Citizen shall be able to delegate such voting weight to another Ethereum Ac
 ### Alignment
 All Governance Proposals must clearly specify how they plan to increase the North Star Metrics.
 
-### 
-
-
+### Process
 Every Citizen shall be able to submit Governance Proposals. Governance Proposals shall be subject to a period in which any Citizen might dispute their constitutionality or North Star Metrics alignment in the Supreme Court.
 
 Governance Proposals shall be subject to the Governance Process.
