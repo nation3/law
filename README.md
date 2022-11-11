@@ -23,7 +23,7 @@ graph TD
     Court -->|Enforces law| Citizens
 ```
 
-The interactions within private contracts are regulated by laws, which are regulated by the Constitution.
+The interactions within private contracts are regulated by laws, which are ultimately bound by the Constitution.
 
 ```mermaid
 graph BT
