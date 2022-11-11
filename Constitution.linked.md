@@ -13,14 +13,14 @@ Designated Blockchain as Ethereum, NFT, Multisignature Wallet as Multisig, Accou
 Decentralized Autonomous Organization
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/DAO.linked.md
 
+NATION
+: Import definitions https://linked.md/api/github/nation3/law/main/shared/NATION.linked.md
+
 DAO Address
 : 0xC4E83d84Ca6F75c5b1D74CaA9DAD0d788c5ECa33
 
 DAO
 : Decentralized Autonomous Organization governed by Citizens pushing forward the vision outlined in the Manifesto, running on Ethereum at the address [%DAO Address].
-
-NATION
-: Import definitions https://linked.md/api/github/nation3/law/main/shared/NATION.linked.md
 
 Judges
 : Legal professionals elected by the DAO to perform judicial services.
@@ -102,9 +102,6 @@ Judge Elections Day
 
 North Star Metrics
 : https://gov.nation3.org/proposals/15
-
-Governance Proposals Specification
-: https://github.com/nation3/gov/blob/main/specs/N3GOV-v1.d.ts
 
 Universal Declaration of Human Rights
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/external/UDHR.linked.md
@@ -224,7 +221,7 @@ a) Failing to keep their passport balance above Minimum Passport Balance.
 Compulsory military service may never be introduced into law.
 
 ### Prohibition of Unfair Taxation
-Taxes may never be introduced into law which tax any Citizen on their worldwide income, regardless of their physical residence or use of the Nation3 Jurisdiction.
+Taxes may never be introduced into law which tax any Citizen on their worldwide income, regardless of their physical residence and/or use of the Nation3 Jurisdiction.
 
 ### Representation
 a) Status as a Citizen does not (and shall not be deemed to) create, and Citizenship Rights do not (and shall not be deemed to) include, any authority, right or power on the part of a Citizen to act as the agent, representative or attorney of or otherwise act on behalf of the DAO or any other Citizen, to bind the DAO or any other Citizen to any Contract or Liability or to Convey any DAO Property or any asset, right or property owned or held by or on behalf of the DAO or any Citizen.
