@@ -7,7 +7,7 @@ Designated Blockchain Network
 Designated Blockchain
 : The version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules.
 
-Account Address
+Account
 : A public key address on the Designated Blockchain Network that is uniquely associated with a single private key, and at which no smart contract has been deployed.  
 
 Consensus Rules

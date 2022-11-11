@@ -7,11 +7,8 @@ Manifesto
 Natural Person, Contract as Legal Contract
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Basic.linked.md
 
-Designated Blockchain as Ethereum, NFT, Multisignature Wallet as Multisig
+Designated Blockchain as Ethereum, NFT, Multisignature Wallet as Multisig, Account as Ethereum Account
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Ethereum.linked.md
-
-Ethereum Account
-: A private-public key pair linked to a blockchain address on Ethereum whose private key is known to one Natural Person. Not a Smart Contract.
 
 Decentralized Autonomous Organization
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/DAO.linked.md
@@ -46,11 +43,11 @@ Nested Court
 Jurisdiction
 : Internet space is bound by a set of laws enacted by the DAO and enforced by the Supreme Court.
 
-Jurisdiction Agreements
-: Contract(s) governed by the laws of the Nation3 Jurisdiction.
-
 Contract
 : A Legal Contract bound by the Nation3 Jurisdiction.
+
+Jurisdiction Agreements
+: Contract(s) governed by the laws of the Nation3 Jurisdiction.
 
 Passport Address
 : 0x3337dac9F251d4E403D6030E18e3cfB6a2cb1333
@@ -94,14 +91,14 @@ Designated Smart Contracts
 Governed Multisig
 : Multisig in which the DAO can elect and dismiss signatories.
 
+Guardian Guild Contract
+: https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/GuardianContract.linked.md
+
 Guardian Guild
-: Governed Multisig responsible for overseeing fund allocation and other administrative governance tasks.
+: Multisig responsible for overseeing fund allocation and other administrative governance tasks, composed of lawfully elected Citizens and bound by the Guardian Guild Contract.
 
-Elections Day
+Judge Elections Day
 : 5th of November
-
-Governance Process
-: https://gov.nation3.org/proposals/process
 
 North Star Metrics
 : https://gov.nation3.org/proposals/15
@@ -117,6 +114,48 @@ Universal Declaration of Animal Rights
 
 Material Adverse Exception Event
 : If one or more of the following has occurred, is occurring or would reasonably be expected to occur (i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contracts; (ii) the Designated Smart Contracts having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contracts or any other smart contract or oracle on which the Designated Smart Contracts depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis; (iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contracts as the result of any bug, defect or error in the Designated Smart Contracts or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause "(iii)", a bug, defect or error will be deemed material only if it results in a loss to a Citizen or the DAO of at least 50% percent of such Citizen's distributable interest in the DAO Property and/or 50% percent of the DAO Property); (iv) any unauthorized use of an administrative function or privilege of the Designated Smart Contracts, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by a Citizen.
+
+Meta Proposal
+: Proposal that modifies this Constitution.
+
+Law Proposal
+: Proposal for the DAO to pass a law to bind the agreements within the Nation3 Jurisdiction.
+
+Poll Proposal
+: Proposal for the DAO to conduct a poll with no-binding results (unless explicitly determined in a Nation3 Jurisdiction Agreement).
+
+Expense Proposal
+: Proposal to transfer a Token outside of the DAO's treasury, with the expectation that it flows outside of its control.
+
+Parameter Change Proposal
+: Proposal to modify the Designated Smart Contracts.
+
+Treasury Management Proposal
+: Proposal to perform an on-chain treasury management operation.
+
+Custodial Treasury Management Proposal
+: Proposal to perform a treasury management operation, with the DAO keeping the legitimate ownership over the assets but holding them through a third-party entity.
+
+Governance Proposals
+: Any of Meta Proposal, Law Proposal, Expense Proposal, Parameter Change Proposal, Treasury Management Proposal or Custodial Treasury Management Proposal.
+
+Proposal Dispute Period
+: 2 days
+
+Voting Period
+: 2 days
+
+Ratification Period
+: 2 days
+
+Voting Platform
+: Snapshot
+
+Critical Impact Proposal Voting Threshold
+: 66%
+
+Critical Impact Proposal Quorum Threshold
+: 20%
 
 ---
 
@@ -143,11 +182,11 @@ This Constitution is the supreme law of Nation3 and any law enacted by the DAO a
 This Constitution might be amended, but not suspended.
 
 ## Fundamental Freedoms and Rights
-Nation3 adheres to the Universal Declaration of Human Rights and the Universal Declaration of Animal Rights. Their contents shall be considered as a paramount part of this Constitution.
+Nation3 adheres to the Universal Declaration of Human Rights and the Universal Declaration of Animal Rights. Their contents shall be considered as a part of this Constitution.
 
 ## Binding Effect of Designated Smart Contracts 
 a) The results of operation of the Designated Smart Contracts shall be determinative of the rights and obligations of, and shall be final, binding upon and non-appealable by each Citizen with respect to the DAO.
-#) In the event of any conflict or inconsistency between Smart Contracts entered by Parties and Legal Contracts entered by the same Parties within the Nation3 Jurisdiction, the outcome enforced by the Smart Contracts shall prevail. Notwithstanding the foregoing, Parties might opt out of such behavior by including a clause specifically determining their preference in an agreement.
+#) In the event of any conflict or inconsistency between Smart Contracts entered by Parties and Nation3 Jurisdiction Agreements entered by the same Parties, the outcome enforced by the Smart Contracts shall prevail. Notwithstanding the foregoing, Parties might opt out of such behavior by including a clause specifically determining their preference in their Nation3 Jurisdiction Agreement.
 
 ## Citizenship
 All Citizens consent to and agree to become legally bound by this Constitution, enforceable in accordance with its terms under the laws of the Nation3 Jurisdiction.
@@ -158,7 +197,7 @@ Each Citizen shall be uniquely identified and referred to by their Passport held
 ### Citizenship Rights
 a) Every Citizen shall have governance power over the DAO, as determined by this Constitution and the Designated Smart Contracts.
 #) Every Citizen shall have the right to access all services provided by Nation3.
-#) Every Citizen shall be entitled to a fair hearing within a reasonable time before a Nested Court for the determination of their rights and obligations, or in the event of any criminal charge against them. The hearing shall be conducted in private unless a judge decides otherwise pursuant to law in the interest of morals, public order, the security of Nation3 or the interests of the parties and witnesses.
+#) Every Citizen shall be entitled to a fair hearing within a reasonable time before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of any criminal charge against them. The hearing shall be conducted in private unless a judge decides otherwise pursuant to law in the interest of morals, public order, the security of Nation3 or the interests of the parties and witnesses.
 
 ### Citizenship Duties
 a) Every Citizen shall uphold this Constitution and participate in DAO Governance in order to ensure that the DAO keeps its spirit loyal to the Nation3 Manifesto.
@@ -208,25 +247,29 @@ Other than the representations and warranties of the other Citizen expressly set
 Every Citizen shall have the right to vote on Governance Proposals to:
 a) Amend this Constitution.
 #) Enact, amend and dismiss laws.
-#) Elect and dismiss members of the Guardian Guild, who shall be Citizens.
+#) Elect and dismiss members of the Guardian Guild.
 #) Operate DAO Agent and DAO Critical Agent on Ethereum.
 
 ### Voting Weights
 a) Each Citizen shall have a voting weight proportional to their veNATION holdings.
 #) Each Citizen shall be able to delegate such voting weight to another Ethereum Account of their choosing.
 
-### Alignment
+### Alignment With Metrics
 All Governance Proposals must clearly specify how they plan to increase the North Star Metrics.
 
-### Process
-a) Every Citizen shall be able to submit Governance Proposals. Governance Proposals shall be subject to a period in which any Citizen might dispute their constitutionality or North Star Metrics alignment in the Supreme Court.
-#) Governance Proposals shall be subject to the Governance Process.
-
-### Ratification
-Governance Proposals approved by Citizens shall be ratified by veNATION Holders on the DAO. Proposals for ratification on the DAO shall be submitted by the Guardian Guild, following the will of the Citizens.
+### Governance Process
+a) Every Citizen shall be able to submit Governance Proposals.
+#) Governance Proposals shall be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in the Supreme Court or a Nested Court.
+#) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The voting threshold will be simple majority and no minimum voting quorum will be imposed.
+#) Governance Proposals approved by Citizens shall be ratified by veNATION Holders on the DAO. Proposals for ratification on the DAO shall be submitted by the Guardian Guild, following the will of the Citizens.
 
 ### Critical Impact Proposals
-Meta Proposals and Law Proposals shall be deemed Critical Impact Proposals within the Governance Process.
+a) Meta Proposals, Law Proposals and proposals which originate an Ethereum transaction from DAO Critical Agent shall be deemed Critical Impact Proposals within the Governance Process.
+b) Critical Impact Proposals will abide by the normal Proposal Dispute Period and Voting Period multiplied by three.
+c) Critical Impact Proposals will be subject to a voting threshold of [%Critical Impact Proposal Voting Threshold] and a minimum voting quorum of [%Critical Impact Proposal Quorum Threshold].
+
+### Voting Outcomes
+All Governance Proposals must adopt binary outcomes (yes or no), except for Poll Proposals.
 
 ## Judiciary
 a) The Supreme Court shall ensure the constitutionality of laws and actions pursued by the Nation3 DAO and Citizens. It shall provide the most fundamental checks and balances to ensure that Nation3 adheres to this Constitution and vision outlined in the Manifesto.
@@ -239,11 +282,15 @@ The judicial power of Nation3 shall be vested in the Supreme Court and in such s
 The Supreme Court consists of the signatories lawfully elected in the Judges Multisig.
 
 ### Appointment of Supreme Court Judges
-a) The DAO shall not elect or dismiss a Judge arbitrarily.
+a) The DAO shall elect Judges once a year on [%Judge Elections Day];
+#) The DAO shall not elect or dismiss a Judge arbitrarily.
 #) The DAO shall dismiss a Judge in case of breach, as described in the Judge Contract.
 
 ### Specialized Courts
 The DAO shall create Specialized Nested Courts as deemed needed. Parties participating in cases submitted to Nested  Courts shall be able to appeal the ruling as many times as possible and take the case to the Supreme Court.
+
+### Appeal
+Parties of a Nation3 Jurisdiction Agreement might appeal the outcome ruled by the Supreme Court, after which the DAO shall intervene, review all evidence (which shall be made public) and veto such outcome if it's ruled as wrong by the DAO. If vetoed, the Supreme Court shall adopt a new outcome.
 
 ## Legislature
 The Legislature shall be vested in the Citizens through the DAO.
@@ -281,10 +328,9 @@ English is the official language of Nation3.
 The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources, but within a maximum deadline of 5th of November 2024.
 
 ### Governance Process
-The DAO commits to amend its Governance Process, once technically possible, with the following changes:
-a) Incorporation of anonymous voting, with binding enactment, on Ethereum.
+a) Incorporation of an anonymous voting mechanism, with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
 #) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild.
 
 ### Citizenship
-The DAO commits to allow every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its amount of citizens.
+a) Allowing every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its amount of citizens.
