@@ -65,3 +65,11 @@ graph TD
     Agreement -->|Is withdrawn| Provider
     DAO -->|Elects| Guardian
 ```
+
+## Design considerations
+- Citizens (through the DAO) are the ultimate governors of Nation3.
+- When it comes to checks and balances, there's no denial that they can eventually be undone by the citizens themselves, with enough time and support. But the system encodes tons of friction to slow down their erosion.
+- The Guardian Guild needs to exist because depending on the whole DAO to keep an informed eye on all deliverables and funding proposals is impractical and lacks ownership.
+- The DAO can be trusted to elect Judges once a year, and to dismiss Judges in breach from time to time.
+- If a Judge is in breach of their duties, the rest of the Judges can be trusted to rule against that Judge in breach. If they collude, they know they will be all replaced by the DAO, so it's in their incentive to not collude.
+- The Court and the Guardian Guild are completely separate entities, and thus providers can rely on the Court in case that the Guardian Guild is providing a wrong judgement on a provider's deliverables. 
