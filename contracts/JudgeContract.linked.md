@@ -28,9 +28,6 @@ Finalization Notice Time
 Dispute Resolution Clause
 : Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
 
-Nation3 Forum
-: https://forum.nation3.org
-
 ---
 
 # Nation3 Supreme Court Judge agreement
@@ -60,6 +57,9 @@ Judge shall not collude with other Judge(s) in an act of Collusion.
 ### Conflict of interest
 Judge shall not participate on a case involving an agreement in which they are involved as one of the parties, or otherwise have a Conflict of Interest.
 
+### Control of private key
+Judge shall exercise sole control of the private key uniquely related to the Ethereum Account used by the Judge in the Judges Multisig. Judge shall not publish, sell or otherwise share or lose control over such private key.
+
 ## Minor breach of contract
 In case of minor breach Judge will be stripped of all their functions, removed from the Judges Multisig, and [%Minor Breach Slashing Percentage] of their collateral will be taken away. The following constitute a minor breach of contract:
 
@@ -73,13 +73,4 @@ Judge shall not submit a new outcome for a dispute while a previous outcome is i
 :include[Dispute Resolution Clause]{"Parties"="Nation3 DAO and Judge"}
 
 ## Finalization
-Nation3 DAO and Judge agree to amicably finalizing this agreement by:
-1. Sending a communication with the intent to finalize, giving notice of at least [%Finalization Notice Time].
-2. Signing the finalization after such notice has passed.
-
-Nation3 DAO shall present this notice to Judge by passing a Proclamation Governance Proposal with the text `Nation3 DAO agrees to give finalization notice to Nation3 Supreme Court judge with account .` followed by the Judge's Ethereum Account. 
-
-Judge shall present notice to Nation3 DAO by posting a message to the Nation3 Forum, describing the intent to finalize the agreement and containing a valid signature produced by the Ethereum Account used in the Judges Multisig.
-
-Upon finalizing this agreement, Nation3 DAO and Judge relieve each other of any responsibilities and liabilities relating to carrying out the activities described in this agreement.
-
+:include[Finalization Clause]{"Party1"="Nation3 DAO" "Party2"="Judge" "Guild"="Judges Multisig" "Finalization Notice Time"="[%Finalization Notice Time]"}

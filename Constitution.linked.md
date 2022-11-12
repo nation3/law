@@ -26,7 +26,7 @@ Judges
 : Legal professionals elected by the DAO to perform judicial services.
 
 Judges Multisig
-: Multisig in which the signatories are the Judges.
+: Multisig composed of lawfully elected Judges bound by the Judge Contract.
 
 Judge Contract
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/JudgeContract.linked.md

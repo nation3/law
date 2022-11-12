@@ -1,9 +1,14 @@
+Designated Blockchain as Ethereum
+: Import definitions ipfs://bafkreifr4nt7b2ivqov3iivhshjombxqxj7l2nx3hczryssmbrlngcvaly#luisc.eth#EthereumPrimitives
+
+Nation3 Forum
+: https://forum.nation3.org
+
 ---
 
-## Finalization
 [%Party1] and [%Party2] agree to amicably finalizing this agreement by:
 1. Sending a communication with the intent to finalize, giving notice of at least [%Finalization Notice Time].
-2. Signing the finalization after such notice has passed.
+2. Executing the finalization of the agreement on Ethereum after such notice has passed.
 
 [%Party1] shall present this notice to [%Party2] by passing a Proclamation Governance Proposal with the text `Nation3 DAO agrees to give finalization notice to Nation3 [%Guild] member with account ` followed by the [%Party2]'s Ethereum Account. 
 
