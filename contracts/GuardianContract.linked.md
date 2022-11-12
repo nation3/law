@@ -62,7 +62,7 @@ Guardian shall not collude with other Guardian(s) in an act of Collusion.
 Guardian shall not participate on a case involving an agreement in which they are involved as one of the parties, or otherwise have a Conflict of Interest.
 
 ### Control of private key
-Guardian shall exercise sole control of the private key uniquely related to the Ethereum Account used by the Guardian in the Guardian Guild. Judge shall not publish, sell or otherwise share or lose control over such private key.
+Guardian shall exercise sole control of the private key uniquely related to the Ethereum Account used by the Guardian in the Guardian Guild. Guardian shall not publish, sell or otherwise share or lose control over such private key.
 
 ## Minor breach of contract
 In case of minor breach Guardian will be stripped of all their functions, removed from the Guardian Guild, and [%Minor Breach Slashing Percentage] of their collateral will be taken away. The following constitute a minor breach of contract:

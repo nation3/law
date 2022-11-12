@@ -10,6 +10,12 @@ Conflict of Interest, Collusion
 Multisignature Wallet as Multisig, Account as Ethereum Account
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Ethereum.linked.md
 
+Dispute Resolution Clause
+: Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
+
+Finalization Clause
+: Import https://linked.md/api/github/nation3/law/main/contracts/FinalizationWithDAO.linked.md
+
 Collateral Amount
 : 10 NATION
 
@@ -24,9 +30,6 @@ Minor Breach Slashing Percentage
 
 Finalization Notice Time
 : 30 days
-
-Dispute Resolution Clause
-: Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
 
 ---
 
