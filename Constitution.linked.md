@@ -4,7 +4,7 @@ Constitution
 Manifesto
 : https://nation3.org/manifesto
 
-Natural Person, Contract as Legal Contract
+Natural Person, Contract as Legal Contract, Legal Proceeding
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Basic.linked.md
 
 Designated Blockchain as Ethereum, NFT, Multisignature Wallet as Multisig, Account as Ethereum Account
@@ -161,7 +161,7 @@ Critical Impact Proposal Quorum Threshold
 [[toc]]
 
 ## The Republic and the Constitution
-Nation3 is formed as a sovereign constitutional republic governed by its Citizens, who constitute the Nation3 DAO.
+Nation3 is a sovereign constitutional republic governed by its Citizens, who constitute the Nation3 DAO.
 
 ### Sovereignty
 a) Nation3 is a sovereign constitutional republic.
@@ -185,10 +185,10 @@ The adherence to these fundamental declarations of human and animal rights, or e
 
 ## Binding Effect of Designated Smart Contracts 
 a) The results of operation of the Designated Smart Contracts shall be determinative of the rights and obligations of, and shall be final, binding upon and non-appealable by each Citizen with respect to the DAO.
-#) In the event of any conflict or inconsistency between Smart Contracts entered by Parties and Nation3 Jurisdiction Agreements entered by the same Parties, the outcome enforced by the Smart Contracts shall prevail. Notwithstanding the foregoing, Parties might opt out of such behavior by including a clause specifically determining their preference in their Nation3 Jurisdiction Agreement.
+#) In the event of any conflict or inconsistency in a contract entered between Parties and regulated by both a Smart Contract and a Nation3 Jurisdiction Agreement, the outcome enforced by the Smart Contract shall prevail. Notwithstanding the foregoing, Parties might opt out of such behavior by including a clause specifically determining their preference in a Nation3 Jurisdiction Agreement.
 
 ## Citizenship
-All Citizens consent to and agree to become legally bound by this Constitution, enforceable in accordance with its terms under the laws of the Nation3 Jurisdiction.
+All Citizens consent to and agree to become legally bound by this Constitution.
 
 ### Identity
 Each Citizen shall be uniquely identified and referred to by their Passport held on their Ethereum Account. Every Citizen shall use their Ethereum Account for interactions with the DAO.
@@ -199,8 +199,8 @@ a) Every Citizen shall have governance power over the DAO, as determined by this
 #) Every Citizen shall be entitled to a fair hearing within a reasonable time before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of any criminal charge against them. The hearing shall be conducted in private unless a judge decides otherwise pursuant to law in the interest of morals, public order, the security of Nation3 or the interests of the parties and witnesses.
 
 ### Citizenship Duties
-a) Every Citizen shall uphold this Constitution and participate in DAO Governance in order to ensure that the DAO keeps its spirit loyal to the Nation3 Manifesto.
-#) Every Citizen shall, when entering agreements within the Nation3 Jurisdiction, act within the limits of the law in effect.
+a) Every Citizen shall uphold this Constitution and participate in the DAO's governance to defend the values outlined in the Nation3 Manifesto.
+#) Every Citizen shall, when entering agreements within the Nation3 Jurisdiction, act in good faith and within the limits of the law.
 #) If any Citizen becomes aware that there is a Material Adverse Exception Event, such Citizen shall deliver to the other Citizens a notice describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief.
 #) No Citizen shall, without the prior written unanimous consent of the other Citizens, directly or indirectly take or attempt to take any of the following actions:
     i) Commence or continue any Legal Proceeding in a jurisdiction different than Nation3 Jurisdiction, assert any Claim or enforce any judgment or other Order, in each case, that (1) is against or involves any other Citizen(s), (2) relates to this Constitution or the matters contemplated by this Constitution, the Designated Smart Contracts or the DAO, including, for the avoidance of doubt, any Legal Proceeding or Order _in rem_ pertaining to the DAO or any Legal Proceeding or Claim challenging the enforceability of any provision of this Constitution.
@@ -208,7 +208,7 @@ a) Every Citizen shall uphold this Constitution and participate in DAO Governanc
     #) Cause, assist, encourage or facilitate, a Material Adverse Exception Event.
 
 ### Acquiring Citizenship
-a) A Citizen is deemed so if holding a Passport in their Ethereum address and having cryptographically signed their agreement to this Constitution.
+a) A Citizen is deemed so if holding a Passport in their Ethereum address and having cryptographically signed their agreement to be bound by this Constitution.
 #) The DAO might amend the processes to issue and distribute Passports by modifying the relevant Designated Smart Contracts.
 
 ### Losing Citizenship
@@ -228,7 +228,7 @@ a) Status as a Citizen does not (and shall not be deemed to) create, and Citizen
 #) Without limiting the generality of the foregoing, no Citizen shall be deemed the partner of the DAO or any other Citizen. No Citizen shall state, purport, imply, hold out or represent to any person that such Citizen or any other Citizen has any such authority, right or power.
 
 ### Liability
-a) Any Citizen might enter Nation3 Jurisdiction Agreements with any other Citizen and/or the DAO. Any Citizen, or the DAO, might only be rendered Liable for the assets present in such an agreement as determined by the Designated Smart Contracts.
+a) Any Citizen might enter Nation3 Jurisdiction Agreements with any other Citizen, the DAO or any other entity possessing an Ethereum Account (the "Parties"). The Parties might only be rendered Liable for the assets present in such an agreement as determined by the Designated Smart Contracts.
 #) Unless explicitly determined in Nation3 Jurisdiction Agreements, no Citizen shall be (or shall be deemed to be) Liable for any Liability of the DAO or any other Citizen.
 #) Unless explicitly determined in Nation3 Jurisdiction Agreements, this clause shall not (and shall not be deemed to) create or imply any obligation of the DAO or any Citizen to indemnify or compensate any Citizen from, or hold any Citizen harmless against, any Liabilities incurred by such Citizen under any applicable law, in connection with the Citizen's participation in the DAO or otherwise.
 
@@ -237,10 +237,10 @@ Every Citizen adhering to this Constitution has all necessary power, authority a
 
 ### Reliance on Own Due Diligence
 Every Citizen has received and carefully reviewed a copy of this Constitution, the laws in effect within the Nation3 Jurisdiction and all source code for the Designated Smart Contracts sufficiently in advance of becoming a Citizen to make an informed decision regarding becoming a Citizen. Every Citizen has been given a full and fair opportunity to:
-a) To ask questions of, and to receive answers from, the other Citizen regarding the subject matter of this Constitution, the laws in effect within the Nation3 Jurisdiction and the Designated Smart Contracts.
+a) To ask questions to, and to receive answers from, other Citizen(s) regarding the subject matter of this Constitution, the laws in effect within the Nation3 Jurisdiction and the Designated Smart Contracts.
 #) To obtain any additional information that is necessary to evaluate this Constitution and the matters contemplated thereby. The Citizen is a Person who is, or in connection with this Constitution and the matters contemplated thereby has received the advice of Persons who are, knowledgeable, sophisticated and experienced in making, and qualified to make, evaluations and decisions with respect to the quality, security and intended and expected functionality of the Designated Smart Contracts and the other matters contemplated by this Constitution.
 
-Other than the representations and warranties of the other Citizen expressly set forth in this section, the Citizen has not relied on any statement, information, representation or warranty including oral statements, due diligence presentations, etc., or any omission of any statement, information, representation or warranty, made by or on behalf of the other Citizen in determining to enter into or perform this Constitution or otherwise making any evaluation or determination of the Designated Smart Contracts or any other matter contemplated by this Charter. The Citizen understands that the other Citizen has not made, and has not authorized any of its representatives to make, any representation, warranty or other statement intended to be relied upon or to give rise to any claim, obligation or liability based on the accuracy or completeness thereof, other than the representations and warranties of such Citizen expressly set forth in this section.
+Other than the representations and warranties of the other Citizen expressly set forth in this section, the Citizen has not relied on any statement, information, representation or warranty including oral statements, due diligence presentations, etc., or any omission of any statement, information, representation or warranty, made by or on behalf of the other Citizen in determining to enter into or perform this Constitution or otherwise making any evaluation or determination of the Designated Smart Contracts or any other matter contemplated by this Constitution. The Citizen understands that the other Citizen has not made, and has not authorized any of its representatives to make, any representation, warranty or other statement intended to be relied upon or to give rise to any claim, obligation or liability based on the accuracy or completeness thereof, other than the representations and warranties of such Citizen expressly set forth in this section.
 
 ## Governance
 Every Citizen shall have the right to vote on Governance Proposals to:
@@ -258,8 +258,8 @@ All Governance Proposals must clearly specify how they plan to increase the Nort
 
 ### Governance Process
 a) Every Citizen shall be able to submit Governance Proposals.
-#) Governance Proposals shall be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in the Supreme Court or a Nested Court.
-#) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The voting threshold will be simple majority and no minimum voting quorum will be imposed.
+#) Governance Proposals shall be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court.
+#) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The voting threshold will be 50% and no minimum voting quorum will be imposed.
 #) Governance Proposals approved by Citizens shall be ratified by veNATION Holders on the DAO. Proposals for ratification on the DAO shall be submitted by the Guardian Guild, following the will of the Citizens.
 
 ### Critical Impact Proposals
