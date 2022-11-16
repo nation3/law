@@ -11,7 +11,7 @@ Dispute Resolution Clause
 : Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
 
 Finalization Clause
-: Import https://linked.md/api/github/nation3/law/main/contracts/FinalizationWithDAO.linked.md
+: Import https://linked.md/api/github/nation3/law/main/shared/FinalizationWithDAO.linked.md
 
 Collateral Amount
 : 10 NATION

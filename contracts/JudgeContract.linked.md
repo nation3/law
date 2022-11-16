@@ -14,7 +14,7 @@ Dispute Resolution Clause
 : Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
 
 Finalization Clause
-: Import https://linked.md/api/github/nation3/law/main/contracts/FinalizationWithDAO.linked.md
+: Import https://linked.md/api/github/nation3/law/main/shared/FinalizationWithDAO.linked.md
 
 Evidence Submission Process
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/EvidenceSubmission.linked.md
