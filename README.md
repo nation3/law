@@ -73,3 +73,15 @@ graph TD
 - The DAO can be trusted to elect Judges once a year, and to dismiss Judges in breach from time to time.
 - If a Judge is in breach of their duties, the rest of the Judges can be trusted to rule against that Judge in breach. If they collude, they know they will be all replaced by the DAO, so it's in their incentive to not collude.
 - The Court and the Guardian Guild are completely separate entities, and thus providers can rely on the Court in case that the Guardian Guild is providing a wrong judgement on a provider's deliverables. 
+
+## Dependency chart
+Non-exhaustive dependency chart detailing the different files in this repo.
+
+```mermaid
+graph TD
+    Constitution -->|References| JudgeContract
+    Constitution -->|References| GuardianContract
+    Constitution -->|References| DisputeResolutionProcess
+    JudgeContract -->|Depends| DisputeResolutionProcess
+    JudgeContract -->|Depends| EvidenceSubmission
+```
