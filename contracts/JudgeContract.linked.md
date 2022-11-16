@@ -1,7 +1,7 @@
 NATION
 : Import definitions https://linked.md/api/github/nation3/law/main/shared/NATION.linked.md
 
-Judges Multisig, DAO as Nation3 DAO
+Supreme Court Judges Multisig as Judges Multisig, DAO as Nation3 DAO
 : Import definitions https://linked.md/api/github/nation3/law/main/Constitution.linked.md
 
 Conflict of Interest, Collusion
@@ -15,6 +15,9 @@ Dispute Resolution Clause
 
 Finalization Clause
 : Import https://linked.md/api/github/nation3/law/main/contracts/FinalizationWithDAO.linked.md
+
+Evidence Submission Process
+: https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/EvidenceSubmission.linked.md
 
 Collateral Amount
 : 10 NATION

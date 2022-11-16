@@ -25,7 +25,7 @@ DAO
 Judges
 : Legal professionals elected by the DAO to perform judicial services.
 
-Judges Multisig
+Supreme Court Judges Multisig
 : Multisig composed of lawfully elected Judges bound by the Judge Contract.
 
 Judge Contract
@@ -278,7 +278,7 @@ a) The Supreme Court shall ensure the constitutionality of laws and actions purs
 The judicial power of Nation3 shall be vested in the Supreme Court and in such subordinate courts as may be provided by any written law for the time being in force.
 
 ### Constitution of Supreme Court
-The Supreme Court consists of the signatories lawfully elected in the Judges Multisig.
+The Supreme Court consists of the signatories lawfully elected in the Supreme Court Judges Multisig.
 
 ### Appointment of Supreme Court Judges
 a) The DAO shall elect Judges once a year on [%Judge Elections Day];
@@ -324,12 +324,12 @@ a) Nation3 might acquire land on planet Earth or any other planet as deemed nece
 English is the official language of Nation3.
 
 ## Committed Amendments
-The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources, but within a maximum deadline of 5th of November 2024.
+The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources.
 
 ### Governance Process
 a) Incorporation of an anonymous voting mechanism, with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
-#) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild.
+#) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Judges Multisig. This amendment shall be executed before June 2023.
 
 ### Citizenship
 a) Allowing every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its amount of citizens.
