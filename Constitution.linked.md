@@ -143,7 +143,7 @@ Emergency State Maximum Duration
 : 7 days
 
 Emergency State
-: State in which the Governance Process can be, whenever possible, be circumvented in order to protect Nation3 from a Material Adverse Exception Event.
+: State in which the Governance Process can be, whenever possible and only related to Parameter Change Proposal(s) or Treasury Management Proposal(s), be circumvented in order to protect Nation3 from a Material Adverse Exception Event.
 
 Proposal Dispute Period
 : 2 days
