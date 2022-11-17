@@ -163,6 +163,9 @@ Critical Impact Proposal Voting Threshold
 Critical Impact Proposal Quorum Threshold
 : 20%
 
+Opt-out Window for New Laws
+: 30 days
+
 ---
 
 # Constitution of Nation3
@@ -323,9 +326,10 @@ The DAO might modify the Designated Smart Contracts, or incorporate new Smart Co
 ### Law Enforced by Court
 a) The DAO might create, amend and dismiss legislation that will bound the Supreme Court in their rulings and thus the Citizens too.
 #) The DAO might not create legislation that contradicts this Constitution.
-#) Law cannot have any retroactive effect.
+#) The DAO might not create legislation with retroactive effect.
 #) An assessment of the impact of legislation shall accompany every creation, amendment or dismissal of laws.
 #) All creation, amendments or dismissal of laws shall argument how their enactment would increase the North Star Metrics.
+#) Citizens will only be legally bound by a law [%Opt-out Window for New Laws] after such law passes. If they wish to opt-out from being bound by such law, they shall renounce their Citizenship.
 
 ## Executive
 The Executive power shall be vested in the Citizens through the DAO.
