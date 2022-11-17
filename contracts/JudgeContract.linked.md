@@ -75,6 +75,14 @@ Judge shall make a Reasonable Effort to participate in resolving disputes, both 
 ### Outcome submission in appealed disputes
 Judge shall not submit a new outcome for a dispute while a previous outcome is in the appeal period.
 
+### Failure to give notice or enter a new version of this agreement
+Nation3 DAO can, from time to time, create a new version of this agreement between the DAO and the Judges.
+
+Judges shall not be bound by a new version of this agreement unless they have explicitly entered it.
+
+In case of disagreement with such new version, Judge shall give notice and finalize their current agreement with Nation3 DAO.
+In case of agreement, Judge shall have [%Finalization Notice Time] to finalize this current agreement and enter the new one, as communicated to the Judges by electronic means.
+
 ## Jurisdiction and dispute resolution
 :include[Dispute Resolution Clause]{"Parties"="Nation3 DAO and Judge"}
 
