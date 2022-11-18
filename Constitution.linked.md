@@ -157,10 +157,13 @@ Ratification Period
 Voting Platform
 : Snapshot
 
-Critical Impact Proposal Voting Threshold
+Proposal Voting Support
+: 50%
+
+Critical Impact Proposal Voting Support
 : 66%
 
-Critical Impact Proposal Quorum Threshold
+Critical Impact Proposal Quorum Support
 : 20%
 
 Opt-out Window for New Laws
@@ -279,13 +282,13 @@ All Governance Proposals must clearly specify how they plan to increase the Nort
 ### Governance Process
 a) Every Citizen shall be able to submit Governance Proposals.
 #) Governance Proposals shall be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court.
-#) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The voting threshold will be 50% and no minimum voting quorum will be imposed, except for Critical Impact Proposals.
+#) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The required voting support will be [%Proposal Voting Support] and no minimum voting quorum will be imposed, except for Critical Impact Proposals.
 #) Governance Proposals approved by Citizens shall be ratified by veNATION Holders in the DAO. Proposals for ratification on the DAO shall be submitted by the Guardian Guild, following the will of the Citizens.
 
 ### Critical Impact Proposals
 a) Meta Proposals, Law Proposals and proposals which originate an Ethereum transaction from DAO Critical Agent shall be deemed Critical Impact Proposals within the Governance Process.
 b) Critical Impact Proposals will abide by the normal Proposal Dispute Period and Voting Period multiplied by three.
-c) Critical Impact Proposals will be subject to a voting threshold of [%Critical Impact Proposal Voting Threshold] and a minimum voting quorum of [%Critical Impact Proposal Quorum Threshold].
+c) Critical Impact Proposals will be subject to a voting support of [%Critical Impact Proposal Voting Support] and a minimum voting quorum of [%Critical Impact Proposal Quorum Support].
 
 ### Voting Outcomes
 All Governance Proposals must adopt binary outcomes (yes or no), except for Poll Proposals.
@@ -315,7 +318,7 @@ a) The DAO shall elect Judges once a year on [%Judge Elections Day].
 The DAO shall create Specialized Nested Courts as deemed needed. Parties participating in cases submitted to Nested  Courts shall be able to appeal the ruling as many times as needed and take the case to the Supreme Court.
 
 ### Appeal
-Parties of a Nation3 Jurisdiction Agreement might appeal the outcome ruled by the Supreme Court, after which the DAO shall intervene, review all evidence (which shall be made public) and veto such outcome if it's ruled as wrong by the DAO. If vetoed, the Supreme Court shall put forward a new outcome.
+Parties of a Nation3 Jurisdiction Agreement might appeal the outcome ruled by the Supreme Court, after which the DAO shall intervene, review all evidence needed (which shall be made public) and veto such outcome if it's ruled as wrong by the DAO. If vetoed, the Supreme Court shall put forward a new outcome.
 
 ## Legislature
 The Legislative power shall be vested in the Citizens through the DAO.
