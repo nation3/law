@@ -32,7 +32,7 @@ Judge Contract
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/JudgeContract.linked.md
 
 Court Dispute Resolution Process
-: https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionProcess.linked.md
+: https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md
 
 Supreme Court
 : Dispute resolution system running on Ethereum, abiding by the laws enacted by the DAO and following the process detailed in the Court Dispute Resolution Process.

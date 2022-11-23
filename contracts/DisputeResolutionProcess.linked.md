@@ -13,23 +13,37 @@ Ethermail address
 Tresorit Send
 : send.tresorit.com by Tresorit AG
 
-Parties, Judges, Judges Multisig
+Parties, Judges, Judges Multisig, Designated Smart Contracts
 : Import definitions https://linked.md/api/github/nation3/law/main/Constitution.linked.md
+
+Evidence Submission Time Window
+: 5 days
+
+Outcome Proposal Time Window
+: 4 days
 
 ---
 
-# Evidence submission process
+# Dispute resolution process
+The process is as follows:
+1. The claimant disputes the agreement on-chain.
+2. Then, the Parties have [%Evidence Submission Time Window] to submit any evidence that might be needed for the Judges to resolve the dispute by proposing their desired outcome.
+3. After the Evidence Submission Time Window ends, the Judges Multisig has [%Outcome Proposal Time Window] to put forward their desired settlement outcome.
+4. Once a settlement proposal has been put forth by the Judges Multisig, any of the Parties can appeal such proposal. The time window for the appeal process is encoded in the Designated Smart Contracts.
+5. A non-appealed settlement proposal will be enforceable and final, as encoded in the Designated Smart Contracts.
+
+## Evidence submission process
 For Parties to open a dispute, respond to a claim or otherwise engage with a disputed agreement, they will need an Skiff Ethereum alias created by [linking their Ethereum account within Skiff](https://skiff.com/blog/ethereum-wallet-email).
 
-## Communicating with judges
+### Communicating with judges
 
-### Communication mechanism
+#### Communication mechanism
 The only valid communication mechanism between Parties and Judges is Skiff. Parties and Judges shall only communicate with their Skiff Ethereum alias.
 
-### Evidence submission
+#### Evidence submission
 Any evidence to support claims or respond to them must be attached to emails within Skiff. Any evidence over 25MB will be sent using Tresorit Send. Only Parties can submit evidence related to a dispute or participate in the dispute process.
 
-### Privacy
+#### Privacy
 All hearings and communications between Parties and Judges will be strictly private. No other parties shall be included in the hearings or communications between Parties and Judges. No private communications between Parties and Judges shall be released to the public or anyone else outside those groups.
 
 Hearings or communications shall be public, and the above shall not apply, if the case involves the dismissal of a Judge from the Judges Multisig.
@@ -40,7 +54,7 @@ Failure to comply with these privacy rules will result in the infringing party b
 
 The Judges Multisig might decide to publish anonymized data about the case, if such action would be in the interest of morals, public order, the security of Nation3 or the interests of the parties and witnesses. No data shall be published that cannot be effectively anonymized.
 
-### Platform malfunction
+#### Platform malfunction
 In case of a malfunction within Skiff, the Judges Multisig will post a joint statement declaring the use of Ethermail instead of Skiff. All Parties and Judges shall continue adhering to the same procedures detailed for Skiff, but instead of using their Skiff Ethereum alias, they must use their Ethermail address.
 
 
