@@ -70,7 +70,6 @@ graph TD
     Constitution -->|References| GuardianContract
     Constitution -->|References| DisputeResolutionProcess
     JudgeContract -->|Depends| DisputeResolutionProcess
-    JudgeContract -->|Depends| EvidenceSubmission
 ```
 - [Constitution](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/Constitution.linked.md): Highest standing agreement among Citizens, Judges and Guardians.
 - [Judge Agreement](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/JudgeContract.linked.md): Agreement between Supreme Court Judges and Nation3 DAO.

@@ -16,8 +16,8 @@ Dispute Resolution Clause
 Finalization Clause
 : Import https://linked.md/api/github/nation3/law/main/shared/FinalizationWithDAO.linked.md
 
-Evidence Submission Process
-: https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/EvidenceSubmission.linked.md
+Dispute Resolution Process
+: https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md
 
 Collateral Amount
 : 10 NATION
@@ -55,7 +55,7 @@ Judge shall be compensated by Nation3 DAO with [%Monthly Compensation] per month
 The following clauses outline what constitutes a severe breach of this agreement. In case of severe breach Judge will be stripped of all their functions, removed from the Judges Multisig, and [%Severe Breach Slashing Percentage] of their collateral will be taken away. The following constitute a severe breach of contract:
 
 ### Leaking evidence
-Judge shall commit to following the Evidence Submission process.
+Judge shall commit to following the Dispute Resolution Process.
 
 ### Collusion
 Judge shall not collude with other Judge(s) in an act of Collusion.
@@ -70,7 +70,7 @@ Judge shall exercise sole control of the private key uniquely related to the Eth
 In case of minor breach Judge will be stripped of all their functions, removed from the Judges Multisig, and [%Minor Breach Slashing Percentage] of their collateral will be taken away. The following constitute a minor breach of contract:
 
 ### Inactivity
-Judge shall make a Reasonable Effort to participate in resolving disputes, both by engaging in the Evidence Submission process and by signing transactions in the Judges Multisig. Not signing one transaction in the Judges Multisig for two months will be considered minor breach of contract. 
+Judge shall make a Reasonable Effort to participate in resolving disputes, both by engaging in the Dispute Resolution Process and by signing transactions in the Judges Multisig. Not signing one transaction in the Judges Multisig for two months will be considered minor breach of contract. 
 
 ### Outcome submission in appealed disputes
 Judge shall not submit a new outcome for a dispute while a previous outcome is in the appeal period.
