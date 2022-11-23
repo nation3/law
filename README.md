@@ -74,6 +74,5 @@ graph TD
 - [Constitution](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/Constitution.linked.md): Highest standing agreement among Citizens, Judges and Guardians.
 - [Judge Agreement](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/JudgeContract.linked.md): Agreement between Supreme Court Judges and Nation3 DAO.
 - [Guardian Agreement](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/GuardianContract.linked.md): Agreement between Guardian Guild members and Nation3 DAO.
-- [Evidence Submission Process](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/EvidenceSubmission.linked.md): Process that Judges and Citizens abide to when handling case evidence.
-- [Dispute Resolution Process](#): WIP. Process that Judges and Nation3 DAO follow for disputes within the Nation3 Jurisdiction. 
+- [Dispute Resolution Process](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md): Process that Judges and Nation3 DAO follow for disputes within the Nation3 Jurisdiction, including evidence submission.
 
