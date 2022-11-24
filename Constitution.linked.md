@@ -281,14 +281,13 @@ All Governance Proposals must clearly specify how they plan to increase the Nort
 
 ### Governance Process
 a) Every Citizen shall be able to submit Governance Proposals.
-#) Governance Proposals shall be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court.
 #) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The required voting support will be [%Proposal Voting Support] and no minimum voting quorum will be imposed, except for Critical Impact Proposals.
 #) Governance Proposals approved by Citizens shall be ratified by veNATION Holders in the DAO. Proposals for ratification on the DAO shall be submitted by the Guardian Guild, following the will of the Citizens.
 
 ### Critical Impact Proposals
 a) Meta Proposals, Law Proposals and proposals which originate an Ethereum transaction from DAO Critical Agent shall be deemed Critical Impact Proposals within the Governance Process.
-b) Critical Impact Proposals will abide by the normal Proposal Dispute Period and Voting Period multiplied by three.
-c) Critical Impact Proposals will be subject to a voting support of [%Critical Impact Proposal Voting Support] and a minimum voting quorum of [%Critical Impact Proposal Quorum Support].
+#) Critical Impact Proposals will be subject to a voting period that is three times of Voting Period.
+#) Critical Impact Proposals will be subject to a voting support of [%Critical Impact Proposal Voting Support] and a minimum voting quorum of [%Critical Impact Proposal Quorum Support].
 
 ### Voting Outcomes
 All Governance Proposals must adopt binary outcomes (yes or no), except for Poll Proposals.
@@ -361,6 +360,8 @@ The DAO commits to implement the following amendments to this Constitution and t
 a) Incorporation of an anonymous voting mechanism, with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
 #) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Judges Multisig. This amendment shall be executed before June 2023.
+#) Making Governance Proposals be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court.
+#) Making Critical Impact Proposals abide by the Proposal Dispute Period described above.
 
 ### Citizenship
 a) Allowing every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its census of citizens.
