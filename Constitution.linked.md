@@ -35,7 +35,7 @@ Court Dispute Resolution Process
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md
 
 Supreme Court
-: Dispute resolution system running on Ethereum, abiding by the laws enacted by the DAO and following the process detailed in the Court Dispute Resolution Process.
+: Dispute resolution system running on Ethereum, abiding by the laws enacted by the DAO, following the process detailed in the Court Dispute Resolution Process and operated by one of the Designated Smart Contracts.
 
 Nested Court
 : Dispute resolution system ultimately governed by the Nation3 DAO and whose decisions are appealable to the Supreme Court.
