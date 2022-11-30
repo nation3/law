@@ -218,7 +218,7 @@ a) Every Citizen shall have governance power over the DAO, as determined by this
 a) Every Citizen shall uphold this Constitution and participate in the DAO's governance at all times acting in accordance with the values outlined in the Nation3 Manifesto.
 #) Every Citizen shall, when entering Nation3 Jurisdiction Agreements, act in good faith and within the limits of the law.
 #) If any Citizen becomes aware that there is a Material Adverse Exception Event, such Citizen shall deliver to the other Citizens a notice describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief.
-#) No Citizen shall physically or verbally threat, harass, physically assault or perform a digital attack against another Citizen.
+#) No Citizen shall physically or verbally threat, harass, physically assault or perform a digital assault (such as hacking of personal devices or private data stealing) against another Citizen.
 #) No Citizen shall, without the prior written unanimous consent of the other Citizens, directly or indirectly take or attempt to take any of the following actions:
     i) Commence or continue any Legal Proceeding in a jurisdiction different than Nation3 Jurisdiction, assert any Claim or enforce any judgment or other Order, in each case, that (1) is against or involves any other Citizen(s), (2) relates to this Constitution or the matters contemplated by this Constitution, the Designated Smart Contracts or the DAO, including, for the avoidance of doubt, any Legal Proceeding or Order _in rem_ pertaining to the DAO or any Legal Proceeding or Claim challenging the enforceability of any provision of this Constitution.
     #) Enter into any Contract that may obligate any Citizen or the DAO to: (1) create, perfect or enforce any Lien on, (2) pledge, hypothecate, grant an option or derivative security, swap or other instrument with respect to or (3) convey, sell, transfer or dispose of such DAO property or any right or interest of the DAO or any Citizen to or in such DAO property.
@@ -242,6 +242,10 @@ No Citizen shall be forced to participate in any military mobilization.
 
 ### Prohibition of Unfair Taxation
 Taxes may never be introduced into law which tax any Citizen on their worldwide income, regardless of their physical residence and/or use of the Nation3 Jurisdiction.
+
+### Prohibition of Monopoly Over Currency
+No currency shall be deemed the sole legal tender of the Nation3 Jurisdiction and subject all monetary transactions to its only use.
+The DAO might choose to make the payment, staking or other financial interaction using NATION a requisite of interaction with the Designated Smart Contracts.
 
 ### Representation
 Status as a Citizen does not (and shall not be deemed to) create, and Citizenship Rights do not (and shall not be deemed to) include, any authority, right or power on the part of a Citizen to:
