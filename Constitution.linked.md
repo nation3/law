@@ -213,6 +213,7 @@ a) Every Citizen shall have governance power over the DAO, as determined by this
 #) All Citizens are equal before the law. There is no privilege among them.
 #) Every Citizen shall have the right to access all services provided by Nation3.
 #) Every Citizen shall be entitled to a fair hearing with a binding resolution within a [%Reasonable Dispute Resolution Time] before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of any criminal charge against them.
+#) A Citizen who uses physical or digital force against another Person or organization, regardless of citizenship or affiliation, will be deemed justified and held faultless if such force was used to defend their person, property or data (or another Person, their property or data) and such force was proportionate to the threat presented.
 
 ### Citizenship Duties
 a) Every Citizen shall uphold this Constitution and participate in the DAO's governance at all times acting in accordance with the values outlined in the Nation3 Manifesto.
@@ -353,6 +354,7 @@ The DAO might appoint Citizen(s) as Representatives of Nation3 in order to stren
 a) Nation3 might acquire land on planet Earth or any other planet as deemed necessary.
 #) Nation3 might acquire sovereign land, land in Special Economic Zones, or land in other jurisdictions as deemed necessary.
 #) Nation3 might open local embassies in different jurisdictions.
+#) Nation3 and its Citizens have the right to defend themselves and others against invaders threatening Nation3's territorial integrity.
 
 ## Language
 English is the official language of Nation3.
