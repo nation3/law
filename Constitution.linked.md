@@ -231,7 +231,7 @@ a) A Citizen is deemed as such if holding a Passport in their Ethereum address a
 #) The DAO might amend the processes to issue and distribute Passports by modifying the relevant Designated Smart Contracts.
 
 ### Losing Citizenship
-A Citizen might lose their status under the following conditions:
+A Citizen might lose their status under one of the following conditions:
 a) Failing to keep their passport balance above Minimum Passport Balance.
 #) If, after a fair trial in the Nation3 Jurisdiction, the Citizen is ruled guilty of severely breaching this Constitution or laws in effect, not fulfilling the Citizenship Duties, or otherwise conducting harmful behavior against Nation3.
 #) By voluntarily revoking their own Passport.
