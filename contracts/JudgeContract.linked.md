@@ -55,13 +55,13 @@ Judge agrees to provide dispute resolution services to Nation3 DAO by:
 Judge enters this agreement by staking [%Collateral Amount].
 
 ## Term
-Judge commits to performing Duties for the duration of the [%Term].
+Judge commits to performing Duties for the duration of [%Term].
 
 ## Compensation
 Judge shall be compensated by Nation3 DAO with [%Monthly Compensation] per month, paid monthly.
 
-## Modification of Collateral requirements
-Nation3 DAO reserves the right to modify Collateral requirements from time to time. In such case, Judges would be given a Notice Period of [%Notice Period], with the choice to update their Collateral, or terminate their service. In case of termination, they shall be paid Compensation until the end of the Notice Period.
+## Modification of Collateral Ammount requirements
+Nation3 DAO reserves the right to modify Collateral Amount requirements from time to time. In such case, Judges would be given a Notice Period of [%Notice Period], with the choice to update their Collateral Amount, or terminate their service. In case of termination, they shall be paid Monthly Compensation until the end of the Notice Period.
 
 ## Severe breach of contract
 The following clauses outline what constitutes a severe breach of this agreement. In case of severe breach Judge will be stripped of all their functions, removed from the Judges Multisig, and [%Severe Breach Slashing Percentage] of their collateral will be taken away. The following constitute a severe breach of contract:
