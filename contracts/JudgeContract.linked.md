@@ -20,7 +20,7 @@ Dispute Resolution Process
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md
 
 Collateral Amount
-: 10 NATION
+: 2 NATION upfront; committing to add 1 NATION each month until the total of 6 NATION is reached
 
 Monthly Compensation
 : 1 NATION
