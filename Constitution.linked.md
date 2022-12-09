@@ -315,7 +315,7 @@ The Judicial power shall be vested in the Supreme Court and in such subordinate 
 The Supreme Court consists of the signatories lawfully elected in the Supreme Court Judges Multisig.
 
 ### Appointment of Supreme Court Judges
-a) The DAO shall elect Judges once a year on [%Judge Elections Day].
+a) The DAO shall elect Judges once a year on [%Judge Elections Day]. Notwithstanding this, the DAO reserves the right to set a different date and frequency of elections during the first year of the Supreme Court existence.
 #) The DAO shall not elect or dismiss a Judge arbitrarily.
 #) The DAO shall dismiss a Judge in case of breach or finalization, as described in the Judge Contract.
 
