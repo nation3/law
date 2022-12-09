@@ -60,7 +60,7 @@ Judge commits to performing Duties for the duration of [%Term].
 ## Compensation
 Judge shall be compensated by Nation3 DAO with [%Monthly Compensation] per month, paid monthly.
 
-## Modification of Collateral Ammount requirements
+## Modification of Collateral Amount requirements
 Nation3 DAO reserves the right to modify Collateral Amount requirements from time to time. In such case, Judges would be given a Notice Period of [%Notice Period], with the choice to update their Collateral Amount, or terminate their service. In case of termination, they shall be paid Monthly Compensation until the end of the Notice Period.
 
 ## Severe breach of contract
