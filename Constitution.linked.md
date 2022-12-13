@@ -188,7 +188,7 @@ a) The legal personality of Nation3 shall be that of a sovereign nation state, a
 #) The Nation3 DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality under any other jurisdiction. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership.
 
 ### Supremacy of Constitution
-This Constitution is the supreme law of Nation3 and any law enacted by the DAO after the commencement of this Constitution which is inconsistent with this Constitution shall, to the extent of the inconsistency, be void.
+This Constitution is the supreme law of Nation3 and no other law shall contravene it.
 
 ### Amendment of Constitution
 This Constitution might be amended (following the Governance Process), but not suspended.
@@ -200,10 +200,10 @@ The adherence to these fundamental declarations of human and animal rights, or e
 
 ## Binding Effect of Designated Smart Contracts 
 a) The results of operation of the Designated Smart Contracts shall be determinative of the rights and obligations of, and shall be final, binding upon and non-appealable by each Citizen with respect to the DAO.
-#) In the event of any conflict or inconsistency in a contract entered between Parties and regulated by both a Smart Contract and a Nation3 Jurisdiction Agreement, the outcome enforced by the Smart Contract shall prevail. Notwithstanding the foregoing, Parties might opt out of such behavior by including a clause specifically determining their preference in a Nation3 Jurisdiction Agreement.
+#) In the event of any conflict or inconsistency in a contract entered between Parties and regulated by both a Smart Contract, and a Nation3 Jurisdiction Agreement, the outcome enforced by the Smart Contract shall prevail. Notwithstanding the foregoing, Parties might opt out of such behavior by including a clause specifically determining their preference in a Nation3 Jurisdiction Agreement.
 
 ## Citizenship
-All Citizens consent to and agree to become legally bound by this Constitution.
+All Citizens consent to and agree to be vested with all rights and duties proceeding from this Constitution.
 
 ### Identity
 Each Citizen shall be uniquely identified and referred to by their Passport held on their Ethereum Account. Every Citizen shall use their Ethereum Account for interactions with the DAO.
@@ -213,11 +213,11 @@ a) Every Citizen shall have governance power over the DAO, as determined by this
 #) All Citizens are equal before the law. There is no privilege among them.
 #) Every Citizen shall have the right to access all services provided by Nation3.
 #) Every Citizen shall be entitled to a fair hearing with a binding resolution within a [%Reasonable Dispute Resolution Time] before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of any criminal charge against them.
-#) A Citizen who uses physical or digital force against another Person or organization, regardless of citizenship or affiliation, will be deemed justified and held faultless if such force was used to defend their person, property or data (or another Person, their property or data) and such force was proportionate to the threat presented.
+#) Every Citizen shall have the right to legal defense whenever his rights or legitimate interests are violated or endangered. Every Citizen shall have the right to be accompanied by legal counsel when appearing before Nation3 authorities.
 
 ### Citizenship Duties
 a) Every Citizen shall uphold this Constitution and participate in the DAO's governance at all times acting in accordance with the values outlined in the Nation3 Manifesto.
-#) Every Citizen shall, when entering Nation3 Jurisdiction Agreements, act in good faith and within the limits of the law.
+#) Every Citizen shall, when entering Nation3 Jurisdiction Agreements, act in good faith and within the limits of Nation3 laws and this Constitution.
 #) Every Citizen shall vote on appeals raised by Parties of a Nation3 Jurisdiction Agreement to the DAO, provided that enough evidence is available to them to make an informed judgement, and ratify such appeals in the case that the outcome provided by the Judges Multisig is unlawful or unconstitutional.
 #) If any Citizen becomes aware that there is a Material Adverse Exception Event, such Citizen shall deliver to the other Citizens a notice describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief.
 #) No Citizen shall physically or verbally threat, harass, physically assault or perform a digital assault (such as hacking of personal devices or private data stealing) against another Citizen.
@@ -231,7 +231,7 @@ a) A Citizen is deemed as such if holding a Passport in their Ethereum address a
 #) The DAO might amend the processes to issue and distribute Passports by modifying the relevant Designated Smart Contracts.
 
 ### Losing Citizenship
-A Citizen might lose their status under one of the following conditions:
+A Citizen will lose their status under one of the following conditions:
 a) Failing to keep their passport balance above Minimum Passport Balance.
 #) If, after a fair trial in the Nation3 Jurisdiction, the Citizen is ruled guilty of severely breaching this Constitution or laws in effect, not fulfilling the Citizenship Duties, or otherwise conducting harmful behavior against Nation3.
 #) By voluntarily revoking their own Passport.
@@ -243,7 +243,7 @@ Compulsory military service may never be introduced into law.
 No Citizen shall be forced to participate in any military mobilization.
 
 ### Prohibition of Unfair Taxation
-Taxes may never be introduced into law which tax any Citizen on their worldwide income, regardless of their physical residence and/or use of the Nation3 Jurisdiction.
+Taxes may never be introduced into law which tax any Citizen on their worldwide income and/or wealth, regardless of their physical residence and/or use of the Nation3 Jurisdiction.
 
 ### Prohibition of Monopoly Over Currency
 No currency shall be deemed the sole legal tender of the Nation3 Jurisdiction and subject all monetary transactions to its only use.
@@ -337,7 +337,7 @@ a) The DAO might create, amend and dismiss legislation that will bound the Supre
 #) The DAO might not create legislation with retroactive effect.
 #) An assessment of the impact of legislation shall accompany every creation, amendment or dismissal of laws.
 #) All creation, amendments or dismissal of laws shall argument how their enactment would increase the North Star Metrics.
-#) Citizens will only be legally bound by a law [%Opt-out Window for New Laws] after such law passes. If they wish to opt-out from being bound by such law, they shall renounce their Citizenship.
+#) New legislations will entry into force of law [%Opt-out Window for New Laws] after they have been approved by the DAO, unless determined differently in they body. Citizens will only be legally bound by a law [%Opt-out Window for New Laws] after such law passes. If they wish to opt-out from being bound by such law, they shall renounce their Citizenship.
 
 ## Executive
 The Executive power shall be vested in the Citizens through the DAO.
@@ -349,7 +349,7 @@ a) The DAO shall create a payment stream to the contributor.
 #) The Contributor might dispute the Guardian Guild’s judgment on the subject and take the matter to a Nested Court or to the Supreme Court.
 
 ### Representation Powers
-The DAO might appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects.
+The DAO might appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects. Any act of Representation shall be delimited to the scope determined by the DAO, and any actions taken by Representatives outside this scope shall be their individual responsibility.
 
 ## Land
 a) Nation3 might acquire land on planet Earth or any other planet as deemed necessary.
