@@ -317,7 +317,7 @@ The Supreme Court consists of the signatories lawfully elected in the Supreme Co
 ### Appointment of Supreme Court Judges
 a) The DAO shall elect Judges once a year on [%Judge Elections Day]. Notwithstanding this, the DAO reserves the right to set a different date and frequency of elections during the first year of the Supreme Court existence.
 #) The DAO shall not elect or dismiss a Judge arbitrarily.
-#) The DAO shall dismiss a Judge in case of breach or finalization, as described in the Judge Contract.
+#) The DAO shall dismiss a Judge in case of breach or finalization, as described in the Judge Contract. A new election shall be run to elect a new Judge to replace the dismissed one.
 
 ### Specialized Courts
 The DAO shall create Specialized Nested Courts as deemed needed. Parties participating in cases submitted to Nested  Courts shall be able to appeal the ruling as many times as needed and take the case to the Supreme Court.
