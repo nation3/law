@@ -142,6 +142,9 @@ Governance Proposals
 Emergency State Maximum Duration
 : 7 days
 
+Emergency State Maximum Recurrence
+: 1 time per year
+
 Emergency State
 : State in which the Governance Process can be, whenever possible and only related to Parameter Change Proposal(s) or Treasury Management Proposal(s), be circumvented in order to protect Nation3 from a Material Adverse Exception Event.
 
@@ -211,6 +214,7 @@ Each Citizen shall be uniquely identified and referred to by their Passport held
 ### Citizenship Rights
 a) Every Citizen shall have governance power over the DAO, as determined by this Constitution and the Designated Smart Contracts.
 #) All Citizens are equal before the law. There is no privilege among them.
+#) The privacy of Citizens shall be inviolable. Everyone shall be entitled to protection against any unlawful interference in their private affairs and against encroachments on their honor, dignity and reputation.
 #) Every Citizen shall have the right to access all services provided by Nation3.
 #) Every Citizen shall be entitled to a fair hearing with a binding resolution within a [%Reasonable Dispute Resolution Time] before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of any criminal charge against them.
 #) Every Citizen shall have the right to legal defense whenever his rights or legitimate interests are violated or endangered. Every Citizen shall have the right to be accompanied by legal counsel when appearing before Nation3 authorities.
@@ -263,6 +267,7 @@ a) Any Citizen might enter Nation3 Jurisdiction Agreements with any other Citize
 
 ### Authorization and Enforceability
 Every Citizen adhering to this Constitution has all necessary power, authority and capacity to enter into, agree to the terms and become bound by this Constitution and laws in effect. This Constitution has been duly entered into by the Citizen and constitutes a legal, valid and binding obligation of the Citizen, enforceable against the Citizen in accordance with its terms.
+In case of any dispute, controversy, difference, or claim arising out of or relating to this Constitution, they shall be referred to and finally resolved only by the Supreme Court or a Nested Court within the Nation3 Jurisdiction. Citizens of Nation3 renounce any action through other mechanisms or jurisdictions.
 
 ### Reliance on Own Due Diligence
 Every Citizen has received and carefully reviewed a copy of this Constitution, the laws in effect within the Nation3 Jurisdiction and all source code for the Designated Smart Contracts sufficiently in advance of becoming a Citizen to make an informed decision regarding becoming a Citizen. Every Citizen has been given a full and fair opportunity to:
@@ -301,7 +306,7 @@ All Governance Proposals must adopt binary outcomes (yes or no), except for Poll
 ### Emergency State
 The Guardian Guild and the Supreme Court Judges Multisig shall, together:
 a) Activate the Emergency State if a Material Adverse Exception Event is happening, if and only if such action would help Nation3 prevent or otherwise alleviate the undesirable effects of such Material Adverse Exception Event.
-#) Declare the end of the Emergency State once Nation3 is not suffering the Material Adverse Exception Event anymore. In any case, the Emergency State shall not last more than [%Emergency State Maximum Duration].
+#) Declare the end of the Emergency State once Nation3 is not suffering the Material Adverse Exception Event anymore. In any case, the Emergency State shall not last more than [%Emergency State Maximum Duration] and shall only be triggered a maximum of [%Emergency State Maximum Recurrence].
 #) Adequately notify Citizens about changes in the activation and deactivation of the Emergency State.
 
 ## Judiciary
