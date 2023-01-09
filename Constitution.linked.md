@@ -199,7 +199,7 @@ This Constitution might be amended (following the Governance Process), but not s
 ## Fundamental Freedoms and Rights
 Nation3 adheres to the Universal Declaration of Human Rights and the Universal Declaration of Animal Rights. Their contents shall be considered as a part of this Constitution.
 
-The adherence to these fundamental declarations of human and animal rights, or equivalent ones, might not be suspended under any circumstance. Any amendments to such fundamental declarations shall be in the form of additions or minor edits with the aim of expanding such freedoms and never deducting from them.
+The adherence to these fundamental declarations of human and animal rights, or equivalent ones, may not be suspended under any circumstance. Any amendments to such fundamental declarations shall be in the form of additions or minor edits with the aim of expanding such freedoms and never deducting from them.
 
 ## Binding Effect of Designated Smart Contracts
 a) The Designated Smart Contracts determine the rights and obligations of each Citizen with respect to the DAO, and shall be binding and non-appealable.
@@ -261,7 +261,7 @@ a) Act as the agent, representative or attorney of or otherwise act on behalf of
 Without limiting the generality of the foregoing, no Citizen shall be deemed the partner of the DAO or any other Citizen.
 
 ### Liability
-a) Any Citizen might enter Nation3 Jurisdiction Agreements with any other Citizen, the DAO or any other entity possessing an Ethereum Account (the "Parties"). The Parties might only be rendered Liable for the assets present in such an agreement as determined by the Designated Smart Contracts.
+a) Any Citizen may enter Nation3 Jurisdiction Agreements with any other Citizen, the DAO or any other entity possessing an Ethereum Account (the "Parties"). The Parties may only be rendered Liable for the assets present in such an agreement as determined by the Designated Smart Contracts.
 #) Unless explicitly determined in Nation3 Jurisdiction Agreements, no Citizen shall be (or shall be deemed to be) Liable for any Liability of the DAO or any other Citizen.
 #) Unless explicitly determined in Nation3 Jurisdiction Agreements, this clause shall not (and shall not be deemed to) create or imply any obligation of the DAO or any Citizen to indemnify or compensate any Citizen from, or hold any Citizen harmless against, any Liabilities incurred by such Citizen under any applicable law, in connection with the Citizen's participation in the DAO or otherwise.
 
@@ -337,9 +337,9 @@ The Legislative power shall be vested in the Citizens through the DAO.
 The DAO might modify the Designated Smart Contracts, or incorporate new Smart Contracts to the Designated Smart Contracts, in order to enforce law on Ethereum.
 
 ### Law Enforced by Court
-a) The DAO might create, amend and dismiss legislation that will bound the Supreme Court in their rulings and thus the Citizens too.
-#) The DAO might not create legislation that contradicts this Constitution.
-#) The DAO might not create legislation with retroactive effect.
+a) The DAO may create, amend and dismiss legislation that will bound the Supreme Court in their rulings and thus the Citizens too.
+#) The DAO may not create legislation that contradicts this Constitution.
+#) The DAO may not create legislation with retroactive effect.
 #) An assessment of the impact of legislation shall accompany every creation, amendment or dismissal of laws.
 #) All creation, amendments or dismissal of laws shall argument how their enactment would increase the North Star Metrics.
 #) New legislations will entry into force of law [%Opt-out Window for New Laws] after they have been approved by the DAO, unless determined differently in they body. Citizens will only be legally bound by a law [%Opt-out Window for New Laws] after such law passes. If they wish to opt-out from being bound by such law, they shall renounce their Citizenship.
@@ -354,12 +354,12 @@ a) The DAO shall create a payment stream to the contributor.
 #) The Contributor might dispute the Guardian Guild’s judgment on the subject and take the matter to a Nested Court or to the Supreme Court.
 
 ### Representation Powers
-The DAO might appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects. Any act of Representation shall be delimited to the scope determined by the DAO, and any actions taken by Representatives outside this scope shall be their individual responsibility.
+The DAO may appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects. Any act of Representation shall be delimited to the scope determined by the DAO, and any actions taken by Representatives outside this scope shall be their individual responsibility.
 
 ## Land
-a) Nation3 might acquire land on planet Earth or any other planet as deemed necessary.
-#) Nation3 might acquire sovereign land, land in Special Economic Zones, or land in other jurisdictions as deemed necessary.
-#) Nation3 might open local embassies in different jurisdictions.
+a) Nation3 may acquire land on planet Earth or any other planet as deemed necessary.
+#) Nation3 may acquire sovereign land, land in Special Economic Zones, or land in other jurisdictions as deemed necessary.
+#) Nation3 may open local embassies in different jurisdictions.
 #) Nation3 and its Citizens have the right to defend themselves and others against invaders threatening Nation3's territorial integrity.
 
 ## Language
