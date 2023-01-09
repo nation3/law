@@ -201,9 +201,9 @@ Nation3 adheres to the Universal Declaration of Human Rights and the Universal D
 
 The adherence to these fundamental declarations of human and animal rights, or equivalent ones, might not be suspended under any circumstance. Any amendments to such fundamental declarations shall be in the form of additions or minor edits with the aim of expanding such freedoms and never deducting from them.
 
-## Binding Effect of Designated Smart Contracts 
-a) The results of operation of the Designated Smart Contracts shall be determinative of the rights and obligations of, and shall be final, binding upon and non-appealable by each Citizen with respect to the DAO.
-#) In the event of any conflict or inconsistency in a contract entered between Parties and regulated by both a Smart Contract, and a Nation3 Jurisdiction Agreement, the outcome enforced by the Smart Contract shall prevail. Notwithstanding the foregoing, Parties might opt out of such behavior by including a clause specifically determining their preference in a Nation3 Jurisdiction Agreement.
+## Binding Effect of Designated Smart Contracts
+a) The Designated Smart Contracts determine the rights and obligations of each Citizen with respect to the DAO, and shall be binding and non-appealable.
+#) In the event of any any conflict or inconsistency in a contract between Parties that is regulated by both a Smart Contract and a Nation3 Jurisdiction Agreement, the outcome enforced by a Smart Contract shall prevail. Parties might opt out of such behavior by including a clause specifically determining their preference in a Nation3 Jurisdiction Agreement.
 
 ## Citizenship
 All Citizens consent to and agree to be vested with all rights and duties proceeding from this Constitution.
