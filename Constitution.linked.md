@@ -34,8 +34,11 @@ Judge Contract
 Court Dispute Resolution Process
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/DisputeResolutionProcess.linked.md
 
+Arbitrator Contract Address
+: 0xCOMINGSOON 
+
 Supreme Court
-: Dispute resolution system running on Ethereum, abiding by the laws enacted by the DAO, following the process detailed in the Court Dispute Resolution Process and operated by one of the Designated Smart Contracts.
+: Dispute resolution system running on Ethereum, abiding by the laws enacted by the DAO, following the process detailed in the Court Dispute Resolution Process and operated by one of the Designated Smart Contracts at address [%Arbitrator Contract Address].
 
 Nested Court
 : Dispute resolution system ultimately governed by the Nation3 DAO and whose decisions are appealable to the Supreme Court.
