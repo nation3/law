@@ -25,7 +25,7 @@ DAO
 Judges
 : Legal professionals (who are Citizens) elected by the DAO to perform judicial services.
 
-Supreme Court Judges Multisig
+Supreme Court Multisig
 : Multisig composed of lawfully elected Judges bound by the Judge Contract.
 
 Judge Contract
@@ -102,6 +102,9 @@ Guardian Guild
 
 Judge Elections Day
 : 5th of November
+
+Guardian Guild Elections Day
+: 5th of May
 
 North Star Metrics
 : Objectively measurable metrics set forth via a Law Proposal. They can be modified only one time per quarter.
@@ -308,7 +311,7 @@ a) Meta Proposals, Law Proposals and proposals which originate an Ethereum trans
 All Governance Proposals must adopt binary outcomes (yes or no), except for Poll Proposals.
 
 ### Emergency State
-The Guardian Guild and the Supreme Court Judges Multisig shall, together:
+The Guardian Guild and the Supreme Court Multisig shall, together:
 a) Activate the Emergency State if a Material Adverse Exception Event is happening, if and only if such action would help Nation3 prevent or otherwise alleviate the undesirable effects of such Material Adverse Exception Event.
 #) Declare the end of the Emergency State once Nation3 is not suffering the Material Adverse Exception Event anymore. In any case, the Emergency State shall not last more than [%Emergency State Maximum Duration] and shall only be triggered a maximum of [%Emergency State Maximum Recurrence].
 #) Adequately notify Citizens about changes in the activation and deactivation of the Emergency State.
@@ -321,10 +324,10 @@ a) The Supreme Court shall ensure the constitutionality of laws and actions purs
 The Judicial power shall be vested in the Supreme Court and in such subordinate courts as may be provided by any written law for the time being in force.
 
 ### Constitution of Supreme Court
-The Supreme Court consists of the signatories lawfully elected in the Supreme Court Judges Multisig.
+The Supreme Court consists of the signatories lawfully elected in the Supreme Court Multisig.
 
-### Appointment of Supreme Court Judges
-a) The DAO shall elect Judges once a year on [%Judge Elections Day]. Notwithstanding this, the DAO reserves the right to set a different date and frequency of elections during the first year of the Supreme Court existence.
+### Appointment of Supreme Court Multisig
+a) The DAO shall elect Judges once a year on the [%Judge Elections Day]. The DAO reserves the right to set a different date and frequency of elections during the first year of the Supreme Court's existence.
 #) The DAO shall not elect or dismiss a Judge arbitrarily.
 #) The DAO shall dismiss a Judge in case of breach or finalization, as described in the Judge Contract. A new election shall be run to elect a new Judge to replace the dismissed one.
 
@@ -357,6 +360,11 @@ a) The DAO shall create a payment stream to the contributor.
 #) The Guardian Guild shall release funds from the stream, only after ensuring that the deliverables, as stated by the Contributor to the DAO, are indeed delivered.
 #) The Contributor might dispute the Guardian Guild’s judgment on the subject and take the matter to a Nested Court or to the Supreme Court.
 
+### Appointment of Guardian Guild members
+a) The DAO shall elect Guardian Guild members once a year on the [%Guardian Guild Elections Day]. The DAO reserves the right to set a different date and frequency of elections during the first year of the Guardian Guild's existence.
+#) The DAO shall not elect or dismiss a Guardian Guild member arbitrarily.
+#) The DAO shall dismiss a Guardian Guild member in case of breach or finalization, as described in the Guardian Guild Contract. A new election shall be run to elect a new member to replace the dismissed one.
+
 ### Representation Powers
 The DAO may appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects. Any act of Representation shall be delimited to the scope determined by the DAO, and any actions taken by Representatives outside this scope shall be their individual responsibility.
 
@@ -375,7 +383,7 @@ The DAO commits to implement the following amendments to this Constitution and t
 ### Governance Process
 a) Incorporation of an anonymous voting mechanism, with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
-#) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Judges Multisig. This amendment shall be executed before June 2023.
+#) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Multisig. This amendment shall be executed before June 2023.
 #) Making Governance Proposals be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court.
 #) Making Critical Impact Proposals abide by the Proposal Dispute Period described above.
 
