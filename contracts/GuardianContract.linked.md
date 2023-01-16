@@ -52,14 +52,11 @@ Guardian shall be compensated by Nation3 DAO with [%Monthly Compensation] per mo
 ## Severe breach of contract
 The following clauses outline what constitutes a severe breach of this agreement. In case of severe breach Guardian will be stripped of all their functions, removed from the Guardian Guild, and [%Severe Breach Slashing Percentage] of their collateral will be taken away. The following constitute a severe breach of contract:
 
-### Leaking evidence
-Guardian shall not leak private evidence obtained in disputes between the Guardian Guild, the Contributors and the DAO.
-
 ### Collusion
 Guardian shall not collude with other Guardian(s) in an act of Collusion.
 
 ### Conflict of interest
-Guardian shall not participate on a case involving an agreement in which they are involved as one of the parties, or otherwise have a Conflict of Interest.
+Guardian shall not partake in decisions where they have a Conflict of Interest, unless explicitly disclosed by the Guardian and approved by the Guardian Guild.
 
 ### Control of private key
 Guardian shall exercise sole control of the private key uniquely related to the Ethereum Account used by the Guardian in the Guardian Guild. Guardian shall not publish, sell or otherwise share or lose control over such private key.
