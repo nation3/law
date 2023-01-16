@@ -229,7 +229,7 @@ a) Every Citizen shall have governance power over the DAO, as determined by this
 a) Every Citizen shall uphold this Constitution.
 #) Every Citizen is expected to participate in governance, as their personal circumstances allow.
 #) Every Citizen shall, when entering Nation3 Jurisdiction Agreements, act in good faith and within the limits of Nation3 laws and this Constitution.
-#) Every Citizen shall vote on appeals raised by Parties of a Nation3 Jurisdiction Agreement to the DAO, provided that enough evidence is available to them to make an informed judgement, and ratify such appeals in the case that the outcome provided by the Judges Multisig is unlawful or unconstitutional.
+#) Every Citizen shall vote on appeals raised by Parties of a Nation3 Jurisdiction Agreement to the DAO, provided that enough evidence is available to them to make an informed judgement, and ratify such appeals in the case that the outcome provided by the Supreme Court Multisig is unlawful or unconstitutional.
 #) If any Citizen becomes aware that there is a Material Adverse Exception Event, such Citizen shall deliver to the other Citizens a notice describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief.
 #) No Citizen shall physically or verbally threat, harass, physically assault or perform a digital assault (such as hacking of personal devices or private data stealing) against another Citizen.
 #) No Citizen shall, without the prior written unanimous consent of the other Citizens, directly or indirectly take or attempt to take any of the following actions:
