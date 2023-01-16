@@ -119,7 +119,7 @@ Reasonable Dispute Resolution Time
 : 30 days
 
 Material Adverse Exception Event
-: If one or more of the following has occurred, is occurring or would reasonably be expected to occur (i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contracts; (ii) the Designated Smart Contracts having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contracts or any other smart contract or oracle on which the Designated Smart Contracts depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis; (iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contracts as the result of any bug, defect or error in the Designated Smart Contracts or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause "(iii)", a bug, defect or error will be deemed material only if it results in a loss to a Citizen or the DAO of at least 50% percent of such Citizen's distributable interest in the DAO Property and/or 50% percent of the DAO Property); (iv) any unauthorized use of an administrative function or privilege of the Designated Smart Contracts, including: (A) any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address or (B) any unauthorized use of an administrative function or privilege by a Citizen.
+: If one or more of the following has occurred, is occurring or would reasonably be expected to occur (i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contracts; (ii) the Designated Smart Contracts having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contracts or any other smart contract or oracle on which the Designated Smart Contracts depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis; (iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contracts as the result of any bug, defect or error in the Designated Smart Contracts or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause "(iii)", a bug, defect or error will be deemed material only if it results in a loss to a Citizen or the DAO of at least 50% percent of such Citizen's distributable interest in the DAO Property and/or 50% percent of the DAO Property); (iv) any unauthorized use of an administrative function or privilege of the Designated Smart Contracts, including any use of any administrative credential, key, password, account or address by a Person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address.
 
 Meta Proposal
 : Proposal that modifies this Constitution.
@@ -222,8 +222,8 @@ a) Every Citizen shall have governance power over the DAO, as determined by this
 #) All Citizens are equal before the law. There is no privilege among them.
 #) The privacy of Citizens shall be inviolable. Everyone shall be entitled to protection against any unlawful interference in their private affairs and against encroachments on their honor, dignity and reputation.
 #) Every Citizen shall have the right to access all services provided by Nation3.
-#) Every Citizen shall be entitled to a fair hearing with a binding resolution within a [%Reasonable Dispute Resolution Time] before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of any criminal charge against them.
-#) Every Citizen shall have the right to legal defense whenever his rights or legitimate interests are violated or endangered. Every Citizen shall have the right to be accompanied by legal counsel when appearing before Nation3 authorities.
+#) Every Citizen shall be entitled to a fair hearing with a binding resolution within a [%Reasonable Dispute Resolution Time] before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of any Legal Proceeding against them.
+#) Every Citizen shall have the right to legal defense whenever their rights or legitimate interests are violated or endangered. Every Citizen shall have the right to be accompanied by legal counsel when appearing before Nation3 authorities.
 
 ### Citizenship Duties
 a) Every Citizen shall uphold this Constitution.
@@ -300,7 +300,9 @@ All Governance Proposals must clearly specify how they plan to increase the Nort
 ### Governance Process
 a) Every Citizen shall be able to submit Governance Proposals.
 #) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The required voting support will be [%Proposal Voting Support] and no minimum voting quorum will be imposed, except for Critical Impact Proposals.
-#) Governance Proposals approved by Citizens shall be ratified by veNATION Holders in the DAO. Proposals for ratification on the DAO shall be submitted by the Guardian Guild, following the will of the Citizens.
+#) Governance Proposals approved by Citizens shall be ratified by veNATION Holders in the DAO.
+#) The Guardian Guild, following the will of the Citizens, shall be able to submit Governance Proposals created by Citizens to the Voting Platform and to the DAO.
+#) In the case of the Guardian Guild being technically unable to submit Governance Proposals, the Supreme Court Multisig shall be able to submit them.
 
 ### Critical Impact Proposals
 a) Meta Proposals, Law Proposals and proposals which originate an Ethereum transaction from DAO Critical Agent shall be deemed Critical Impact Proposals within the Governance Process.
@@ -384,8 +386,8 @@ The DAO commits to implement the following amendments to this Constitution and t
 a) Incorporation of an anonymous voting mechanism, with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
 #) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Multisig. This amendment shall be executed before June 2023.
-#) Making Governance Proposals be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court.
-#) Making Critical Impact Proposals abide by the Proposal Dispute Period described above.
+#) Making Governance Proposals be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court. Thus removing the permission of the Supreme Court Multisig to submit Governance Proposals.
+#) Making Critical Impact Proposals abide by the Proposal Dispute Period described above as well.
 
 ### Citizenship
 a) Allowing every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its census of citizens.
