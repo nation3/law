@@ -97,8 +97,17 @@ Governed Multisig
 Guardian Guild Contract
 : https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/contracts/GuardianContract.linked.md
 
+Guardian Guild Address
+: TBD
+
 Guardian Guild
-: Multisig responsible for overseeing fund allocation and other administrative governance tasks, composed of lawfully elected Citizens and bound by the Guardian Guild Contract.
+: Multisig deployed at [%Guardian Guild Address] responsible for overseeing fund allocation and other administrative governance tasks, composed of lawfully elected Citizens and bound by the Guardian Guild Contract.
+
+Meta Guild
+: Multisig deployed at [%Meta Guild Address] responsible for overseeing fund allocation and other administrative governance tasks until the Guardian Guild is operative.
+
+Meta Guild Address
+: 0x7fFf737ae9FdDD6E28Fe8B8F0F4dE69Bb8e7a885
 
 Judge Elections Day
 : 5th of November
@@ -145,15 +154,6 @@ Custodial Treasury Management Proposal
 Governance Proposals
 : Any of Meta Proposal, Law Proposal, Expense Proposal, Parameter Change Proposal, Treasury Management Proposal or Custodial Treasury Management Proposal.
 
-Emergency State Maximum Duration
-: 7 days
-
-Emergency State Maximum Recurrence
-: 1 time per year
-
-Emergency State
-: State in which the Governance Process can be, whenever possible and only related to Parameter Change Proposal(s) or Treasury Management Proposal(s), be circumvented in order to protect Nation3 from a Material Adverse Exception Event.
-
 Proposal Dispute Period
 : 2 days
 
@@ -196,6 +196,9 @@ a) Nation3 is a sovereign constitutional republic.
 a) The legal personality of Nation3 shall be that of a sovereign nation state, and shall be treated as such by other jurisdictions.
 #) The Nation3 DAO is not intended to, and shall not be deemed to, be a legal person or have a legal personality under any other jurisdiction. Without limiting the generality of the foregoing, the DAO is not intended to be, and shall not be deemed to be, a partnership.
 
+### Default Blockchain
+All blockchain addresses in this document refer to addresses within the Ethereum blockchain, unless explicitly stated otherwise.
+
 ### Supremacy of Constitution
 This Constitution is the supreme law of Nation3 and no other law shall contravene it.
 
@@ -209,7 +212,8 @@ The adherence to these fundamental declarations of human and animal rights, or e
 
 ## Binding Effect of Designated Smart Contracts
 a) The Designated Smart Contracts determine the rights and obligations of each Citizen with respect to the DAO, and shall be binding and non-appealable.
-#) In the event of any any conflict or inconsistency in a contract between Parties that is regulated by both a Smart Contract and a Nation3 Jurisdiction Agreement, the outcome enforced by a Smart Contract shall prevail. Parties might opt out of such behavior by including a clause specifically determining their preference in a Nation3 Jurisdiction Agreement.
+#) In the event of any any conflict or inconsistency in a contract between Parties that is regulated by both a Smart Contract and a Nation3 Jurisdiction Agreement, the outcome enforced by a Smart Contract shall prevail.
+    i) The outcome of a Nation3 Jurisdiction Agreement might prevail over the Smart Contract's only if there's a clause explicitly determining such behavior. In this case, the agreement shall specify the desired execution of the Smart Contract in its terms.
 
 ## Citizenship
 All Citizens consent to and agree to be vested with all rights and duties proceeding from this Constitution.
@@ -238,7 +242,7 @@ a) Every Citizen shall uphold this Constitution.
     #) Cause, assist, encourage or facilitate, a Material Adverse Exception Event.
 
 ### Acquiring Citizenship
-a) A Citizen is deemed as such if holding a Passport in their Ethereum address and having cryptographically signed their agreement to be bound by this Constitution.
+a) A Citizen is deemed as such if holding a Passport in their Ethereum Account and having cryptographically signed their agreement to be bound by this Constitution.
 #) The DAO might amend the processes to issue and distribute Passports by modifying the relevant Designated Smart Contracts.
 
 ### Losing Citizenship
@@ -312,12 +316,6 @@ a) Meta Proposals, Law Proposals and proposals which originate an Ethereum trans
 ### Voting Outcomes
 All Governance Proposals must adopt binary outcomes (yes or no), except for Poll Proposals.
 
-### Emergency State
-The Guardian Guild and the Supreme Court Multisig shall, together:
-a) Activate the Emergency State if a Material Adverse Exception Event is happening, if and only if such action would help Nation3 prevent or otherwise alleviate the undesirable effects of such Material Adverse Exception Event.
-#) Declare the end of the Emergency State once Nation3 is not suffering the Material Adverse Exception Event anymore. In any case, the Emergency State shall not last more than [%Emergency State Maximum Duration] and shall only be triggered a maximum of [%Emergency State Maximum Recurrence].
-#) Adequately notify Citizens about changes in the activation and deactivation of the Emergency State.
-
 ## Judiciary
 a) The Supreme Court shall ensure the constitutionality of laws and actions pursued by the Nation3 DAO and Citizens. It shall provide the most fundamental checks and balances to ensure that Nation3 adheres to this Constitution and vision outlined in the Manifesto.
 #) The Supreme Court and each Nested Court shall resolve disputes within [%Reasonable Dispute Resolution Time] in accordance to the laws in effect in the Nation3 Jurisdiction.
@@ -358,7 +356,7 @@ The Executive power shall be vested in the Citizens through the DAO.
 The DAO can, as deemed convenient, delegate executive powers to Contributors.
 
 All Expense Governance Proposals must follow this process:
-a) The DAO shall create a payment stream to the contributor.
+a) The DAO shall create a payment stream to the contributor, with the Guardian Guild being able to pause such stream.
 #) The Guardian Guild shall release funds from the stream, only after ensuring that the deliverables, as stated by the Contributor to the DAO, are indeed delivered.
 #) The Contributor might dispute the Guardian Guild’s judgment on the subject and take the matter to a Nested Court or to the Supreme Court.
 
@@ -366,6 +364,9 @@ a) The DAO shall create a payment stream to the contributor.
 a) The DAO shall elect Guardian Guild members once a year on the [%Guardian Guild Elections Day]. The DAO reserves the right to set a different date and frequency of elections during the first year of the Guardian Guild's existence.
 #) The DAO shall not elect or dismiss a Guardian Guild member arbitrarily.
 #) The DAO shall dismiss a Guardian Guild member in case of breach or finalization, as described in the Guardian Guild Contract. A new election shall be run to elect a new member to replace the dismissed one.
+
+### Temporary transition toward Guardian Guild
+The Meta Guild will assume all roles and responsibilities assigned to the Guardian Guild within this document until the Guardian Guild is operational and a Meta Proposal is passed to define the Guardian Guild Multisig Address and remove this clause. Until then, the DAO and the Meta Guild shall do their best to oversee the work of contributors and handle their payments in the absence of funding streams.
 
 ### Representation Powers
 The DAO may appoint Citizen(s) as Representatives of Nation3 in order to strengthen partnerships or diplomatic relations with other states or aligned projects. Any act of Representation shall be delimited to the scope determined by the DAO, and any actions taken by Representatives outside this scope shall be their individual responsibility.
@@ -383,7 +384,8 @@ English is the official language of Nation3.
 The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources.
 
 ### Governance Process
-a) Incorporation of an anonymous voting mechanism, with binding enactment on Ethereum.
+a) Removal of the Meta Guild and transition toward the Guardian Guild.
+#) Incorporation of an anonymous voting mechanism, with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
 #) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Multisig. This amendment shall be executed before June 2023.
 #) Making Governance Proposals be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court. Thus removing the permission of the Supreme Court Multisig to submit Governance Proposals.
