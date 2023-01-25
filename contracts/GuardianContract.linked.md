@@ -1,5 +1,5 @@
 NATION
-: Import definitions ipfs://bafybeic2trv5go7qqjth2xyefj74y6iljgn6q26hp6lpnhyu66fh5gi2pi/NATION.linked.md
+: Import definitions ipfs://bafybeidyqn7slhuxeyvpqyktqvc3srx2e2crychwmd4adzaabpolul3ila/NATION.linked.md
 
 Guardian Guild, DAO as Nation3 DAO
 : Import definitions ipfs://bafybeidy3gjledmes5gvdd4qqawkmxfap7tlsncogygl6o4w7yffw7we5i/Constitution.linked.md
