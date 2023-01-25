@@ -5,10 +5,10 @@ Designated Blockchain as Ethereum, Smart Contract, NFT, Multisignature Wallet as
 : Import definitions ipfs://bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe/Ethereum.linked.md
 
 Decentralized Autonomous Organization
-: Import definitions ipfs://bafybeictcruaip72kb4d6pz5xtw2hboy5az5r5vr6gq7xtx3g4eo6qf4i4/DAO.linked.md
+: Import definitions ipfs://bafybeidnxw4c3dg5fjsuvmq7ke7tlrva7gfurrbucyaw3rv2f4pkh4mqfa/DAO.linked.md
 
 NATION
-: Import definitions ipfs://bafybeidyqn7slhuxeyvpqyktqvc3srx2e2crychwmd4adzaabpolul3ila/NATION.linked.md
+: Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
 
 Constitution
 : This document.
