@@ -2,7 +2,7 @@ NATION
 : Import definitions ipfs://bafybeic2trv5go7qqjth2xyefj74y6iljgn6q26hp6lpnhyu66fh5gi2pi/NATION.linked.md
 
 Supreme Court Multisig, DAO as Nation3 DAO
-: Import definitions ipfs://bafybeiaboitlhfa4jqyhamoy6rflxjdocffwafgug252awuo2qmyplgvrq/Constitution.linked.md
+: Import definitions ipfs://bafybeidy3gjledmes5gvdd4qqawkmxfap7tlsncogygl6o4w7yffw7we5i/Constitution.linked.md
 
 Conflict of Interest, Collusion
 : Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq/Basic.linked.md
@@ -11,13 +11,13 @@ Multisignature Wallet as Multisig, Account as Ethereum Account
 : Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu/Ethereum.linked.md
 
 Dispute Resolution Clause
-: Import ipfs://bafybeicbvm6qkqfl4jtji2axw3ptkqao3gzsdilglobyh7jdsyw4ncetrq/DisputeResolutionClause.linked.md
+: Import ipfs://bafybeib2ro4hlcomzepadmis626esnqeq6crtykvqeeyjn3ghiyqwaotvi/DisputeResolutionClause.linked.md
 
 Finalization Clause
-: Import ipfs://bafybeibss6ev3yyq5pb4orklr3drtlqcc2ddmrd5uprhzoeduuqv7hvie4/FinalizationWithDAO.linked.md
+: Import ipfs://bafybeifbsi5nm4v2dueezjqtczzgbp642oydfjkw2tcf2u6haximkb4l5i/FinalizationWithDAO.linked.md
 
 Dispute Resolution Process
-: ipfs://bafybeieaarrjvpkvnzg5nsxbwk5a35mbob2mj6jgszs4rik5j4a4z2n5pe/DisputeResolutionProcess.linked.md
+: ipfs://bafybeihsqtpepa76uzlhaofv3gscpp4pojkbftc6rcrqju57ufheohvw4y/DisputeResolutionProcess.linked.md
 
 Collateral Amount
 : 2 NATION upfront; committing to add 1 NATION each month until the total of 6 NATION is reached

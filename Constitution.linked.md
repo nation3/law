@@ -1,14 +1,14 @@
 Natural Person, Contract, Legal Proceeding, Legal Order
-: Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq
+: Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq/Basic.linked.md
 
 Designated Blockchain as Ethereum, Smart Contract, NFT, Multisignature Wallet as Multisig, Account as Ethereum Account
-: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu
+: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu/Ethereum.linked.md
 
 Decentralized Autonomous Organization
-: Import definitions ipfs://bafybeid2htvj7qkcwes2rveswrf7r2cejqslxq27rmx4ow5zomexf6bpty
+: Import definitions ipfs://bafybeid2htvj7qkcwes2rveswrf7r2cejqslxq27rmx4ow5zomexf6bpty/DAO.linked.md
 
 NATION
-: Import definitions ipfs://bafybeic2trv5go7qqjth2xyefj74y6iljgn6q26hp6lpnhyu66fh5gi2pi
+: Import definitions ipfs://bafybeidyqn7slhuxeyvpqyktqvc3srx2e2crychwmd4adzaabpolul3ila/NATION.linked.md
 
 Constitution
 : This document.

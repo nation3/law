@@ -1,5 +1,5 @@
 Designated Blockchain as Ethereum, Account as Ethereum Account
-: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu
+: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu/Ethereum.linked.md
 
 Nation3 Forum
 : https://forum.nation3.org

@@ -1,5 +1,5 @@
 Parties, Judges, Judges Multisig, Designated Smart Contracts
-: Import definitions ipfs://bafybeiaboitlhfa4jqyhamoy6rflxjdocffwafgug252awuo2qmyplgvrq
+: Import definitions ipfs://bafybeidy3gjledmes5gvdd4qqawkmxfap7tlsncogygl6o4w7yffw7we5i/Constitution.linked.md
 
 Skiff
 : skiff.com by Skiff World, Inc.

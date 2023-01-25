@@ -1,5 +1,5 @@
 Designated Blockchain as Ethereum, Token
-: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu
+: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu/Ethereum.linked.md
 
 NATION
 : ERC20 Token living in Ethereum at address [%Address]
