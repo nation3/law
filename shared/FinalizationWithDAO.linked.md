@@ -1,4 +1,4 @@
-Designated Blockchain as Ethereum
+Designated Blockchain as Ethereum, Account as Ethereum Account
 : Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu
 
 Nation3 Forum
