@@ -1,5 +1,5 @@
 Designated Blockchain as Ethereum
-: Import definitions ipfs://bafkreifr4nt7b2ivqov3iivhshjombxqxj7l2nx3hczryssmbrlngcvaly#luisc.eth#EthereumPrimitives
+: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu
 
 Nation3 Forum
 : https://forum.nation3.org

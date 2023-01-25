@@ -1,23 +1,26 @@
 NATION
-: Import definitions https://linked.md/api/github/nation3/law/main/shared/NATION.linked.md
+: Import definitions ipfs://bafybeic2trv5go7qqjth2xyefj74y6iljgn6q26hp6lpnhyu66fh5gi2pi
 
 Guardian Guild, DAO as Nation3 DAO
-: Import definitions https://linked.md/api/github/nation3/law/main/Constitution.linked.md
+: Import definitions ipfs://bafybeiaboitlhfa4jqyhamoy6rflxjdocffwafgug252awuo2qmyplgvrq
 
 Conflict of Interest, Collusion, Person
-: Import definitions https://linked.md/api/github/nation3/law/main/shared/primitives/Basic.linked.md
+: Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq
 
 Dispute Resolution Clause
-: Import https://linked.md/api/github/nation3/law/main/shared/DisputeResolutionClause.linked.md
+: Import ipfs://bafybeicbvm6qkqfl4jtji2axw3ptkqao3gzsdilglobyh7jdsyw4ncetrq
 
 Finalization Clause
-: Import https://linked.md/api/github/nation3/law/main/shared/FinalizationWithDAO.linked.md
+: Import ipfs://bafybeiapmtmwf45r2ip3ux3vy7ntulvq3s3xwyidae44hfnujxywiutzme
 
 Collateral Amount
 : 10 NATION
 
 Monthly Compensation
 : 1 NATION
+
+Term
+: 1 year
 
 Severe Breach Slashing Percentage
 : 100%
@@ -26,6 +29,9 @@ Minor Breach Slashing Percentage
 : 30%
 
 Finalization Notice Time
+: 30 days
+
+Notice Period
 : 30 days
 
 Contributors
@@ -46,8 +52,14 @@ Guardian agrees to provide the following services to Nation3 DAO:
 ## Collateral
 Guardian enters this agreement by staking [%Collateral Amount].
 
+## Term
+Guardian commits to performing Duties for the duration of [%Term].
+
 ## Compensation
 Guardian shall be compensated by Nation3 DAO with [%Monthly Compensation] per month, paid monthly.
+
+## Modification of Collateral Amount requirements
+Nation3 DAO reserves the right to modify Collateral Amount requirements from time to time. In such case, Guardians would be given a Notice Period of [%Notice Period], with the choice to update their Collateral Amount, or terminate their service. In case of termination, they shall be paid Monthly Compensation until the end of the Notice Period.
 
 ## Severe breach of contract
 The following clauses outline what constitutes a severe breach of this agreement. In case of severe breach Guardian will be stripped of all their functions, removed from the Guardian Guild, and [%Severe Breach Slashing Percentage] of their collateral will be taken away. The following constitute a severe breach of contract:

@@ -1,3 +1,6 @@
+Parties, Judges, Judges Multisig, Designated Smart Contracts
+: Import definitions ipfs://bafybeiaboitlhfa4jqyhamoy6rflxjdocffwafgug252awuo2qmyplgvrq
+
 Skiff
 : skiff.com by Skiff World, Inc.
 
@@ -12,9 +15,6 @@ Ethermail address
 
 Tresorit Send
 : send.tresorit.com by Tresorit AG
-
-Parties, Judges, Judges Multisig, Designated Smart Contracts
-: Import definitions https://linked.md/api/github/nation3/law/main/Constitution.linked.md
 
 Evidence Submission Time Window
 : 5 days

@@ -1,5 +1,5 @@
 Jurisdiction as Nation3 Jurisdiction, Supreme Court as Nation3 Supreme Court
-: Import definitions https://linked.md/api/github/nation3/law/main/Constitution.linked.md
+: Import definitions ipfs://bafybeiaboitlhfa4jqyhamoy6rflxjdocffwafgug252awuo2qmyplgvrq
 
 ---
 
