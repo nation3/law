@@ -8,7 +8,7 @@ Conflict of Interest, Collusion
 : Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq/Basic.linked.md
 
 Multisignature Wallet as Multisig, Account as Ethereum Account
-: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu/Ethereum.linked.md
+: Import definitions ipfs://bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe/Ethereum.linked.md
 
 Dispute Resolution Clause
 : Import ipfs://bafybeib2ro4hlcomzepadmis626esnqeq6crtykvqeeyjn3ghiyqwaotvi/DisputeResolutionClause.linked.md

@@ -22,7 +22,7 @@ Current references to IPFS, for convenience:
 - `shared/NATION.linked.md`: bafybeidyqn7slhuxeyvpqyktqvc3srx2e2crychwmd4adzaabpolul3ila
 - `shared/FinalizationWithDAO.linked.md`: bafybeifbsi5nm4v2dueezjqtczzgbp642oydfjkw2tcf2u6haximkb4l5i
 - `shared/primitives/Basic.linked.md`: bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq
-- `shared/primitives/Ethereum.linked.md`: bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu
+- `shared/primitives/Ethereum.linked.md`: bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe
 - `shared/primitives/DAO.linked.md`: bafybeid2htvj7qkcwes2rveswrf7r2cejqslxq27rmx4ow5zomexf6bpty
 - `external/UDHR.linked.md`: bafybeidcky6g64m6fcjc7i4xkfno3v7g3rmtsryczni3nekuamcb7rwrba
 - `external/UDAR.linked.md`: bafybeidtfbaz5ltszhunvf5m7ypdq5vyvhb6jakzncjfyp2eqxe4dj6p6m

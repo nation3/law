@@ -2,7 +2,7 @@ Natural Person, Contract, Legal Proceeding, Legal Order
 : Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq/Basic.linked.md
 
 Designated Blockchain as Ethereum, Smart Contract, NFT, Multisignature Wallet as Multisig, Account as Ethereum Account
-: Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu/Ethereum.linked.md
+: Import definitions ipfs://bafybeicrajuuvz5c5zuvje2y5qewdugdcpkkqpvoajhr24qschuwplyrxe/Ethereum.linked.md
 
 Decentralized Autonomous Organization
 : Import definitions ipfs://bafybeictcruaip72kb4d6pz5xtw2hboy5az5r5vr6gq7xtx3g4eo6qf4i4/DAO.linked.md
