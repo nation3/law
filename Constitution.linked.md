@@ -5,7 +5,7 @@ Designated Blockchain as Ethereum, Smart Contract, NFT, Multisignature Wallet as
 : Import definitions ipfs://bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu/Ethereum.linked.md
 
 Decentralized Autonomous Organization
-: Import definitions ipfs://bafybeid2htvj7qkcwes2rveswrf7r2cejqslxq27rmx4ow5zomexf6bpty/DAO.linked.md
+: Import definitions ipfs://bafybeictcruaip72kb4d6pz5xtw2hboy5az5r5vr6gq7xtx3g4eo6qf4i4/DAO.linked.md
 
 NATION
 : Import definitions ipfs://bafybeidyqn7slhuxeyvpqyktqvc3srx2e2crychwmd4adzaabpolul3ila/NATION.linked.md

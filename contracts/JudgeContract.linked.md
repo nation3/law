@@ -2,7 +2,7 @@ NATION
 : Import definitions ipfs://bafybeic2trv5go7qqjth2xyefj74y6iljgn6q26hp6lpnhyu66fh5gi2pi/NATION.linked.md
 
 Supreme Court Multisig, DAO as Nation3 DAO
-: Import definitions ipfs://bafybeidy3gjledmes5gvdd4qqawkmxfap7tlsncogygl6o4w7yffw7we5i/Constitution.linked.md
+: Import definitions ipfs://bafybeidljpq6xgj7yw6morm5n4miqtyvqwofqlpo7sf7lsoz2cd7zqvfwa/Constitution.linked.md
 
 Conflict of Interest, Collusion
 : Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq/Basic.linked.md
