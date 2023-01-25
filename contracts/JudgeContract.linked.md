@@ -14,7 +14,7 @@ Dispute Resolution Clause
 : Import ipfs://bafybeicbvm6qkqfl4jtji2axw3ptkqao3gzsdilglobyh7jdsyw4ncetrq
 
 Finalization Clause
-: Import ipfs://bafybeiapmtmwf45r2ip3ux3vy7ntulvq3s3xwyidae44hfnujxywiutzme
+: Import ipfs://bafybeibss6ev3yyq5pb4orklr3drtlqcc2ddmrd5uprhzoeduuqv7hvie4
 
 Dispute Resolution Process
 : ipfs://bafybeieaarrjvpkvnzg5nsxbwk5a35mbob2mj6jgszs4rik5j4a4z2n5pe
