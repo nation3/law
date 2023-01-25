@@ -17,7 +17,7 @@ Current references to IPFS, for convenience:
 - `contracts/JudgeContract.linked.md`: bafybeifacerdfb6fha3cus7iig4ewuuicstjwcb4s4rylt4pnawuorhutm
 - `contracts/DisputeResolutionProcess.linked.md`: bafybeieaarrjvpkvnzg5nsxbwk5a35mbob2mj6jgszs4rik5j4a4z2n5pe
 - `shared/NATION.linked.md`: bafybeic2trv5go7qqjth2xyefj74y6iljgn6q26hp6lpnhyu66fh5gi2pi
-- `shared/FinalizationWithDAO.linked.md`: bafybeiapmtmwf45r2ip3ux3vy7ntulvq3s3xwyidae44hfnujxywiutzme
+- `shared/FinalizationWithDAO.linked.md`: bafybeibss6ev3yyq5pb4orklr3drtlqcc2ddmrd5uprhzoeduuqv7hvie4
 - `shared/DisputeResolutionClause.linked.md`: bafybeicbvm6qkqfl4jtji2axw3ptkqao3gzsdilglobyh7jdsyw4ncetrq
 - `shared/primitives/Basic.linked.md`: bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq
 - `shared/primitives/Ethereum.linked.md`: bafybeic56ksym62lybrvxsdxriscb7aylqdnyjs5txrc5rxz5pyunmdsvu
