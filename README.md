@@ -3,6 +3,7 @@
 > :warning: This is a work-in-progress and no Constitution nor laws have been formally enacted by Nation3 yet.
 
 This repository contains the Nation3 Constitution, the documents required by it and laws in effect. It's structured as follows:
+
 - [Constitution](https://linked.md/v?u=https://linked.md/api/github/nation3/law/main/Constitution.linked.md): Fundamental document outlining the powers of the Nation3 state, its governance and its checks and balances.
 - [Laws](laws): Laws in effect within the Nation3 jurisdiction.
 - [Contracts](contracts): Contracts entered by the Nation3 DAO with relevant parties.
@@ -12,11 +13,12 @@ All documents are written in [Linked Markdown](https://linked.md).
 [Read more about the Constitution](https://docs.nation3.org/jurisdiction/constitution).
 
 Current references to IPFS, for convenience:
-- `Constitution.linked.md`: bafybeia2fmdzldlbjbad3j7ywmj7dz32ptyz3hqmdkunpyty6zn7k7mh3q
-- `contracts/GuardianContract.linked.md`: bafybeigu7kcbm5iu2gmtwne5sb5hnlropnjafpbdeb4mxhumo4ug4xdj2q
-- `contracts/JudgeContract.linked.md`: bafybeidnzzbibdhobpiysahu65u4cqtsfxowfolef4ucbjkvpwjac36m5q
-- `contracts/DisputeResolutionProcess.linked.md`: bafybeihljkmre5edddiwvlwfmisngnzelcfxvihbyp7knpcs5tq2khwtb4
-- `shared/DisputeResolutionClause.linked.md`: bafybeiblzrsgkcxuxch6cxiuutp3ygyjghcevt4d5tmeef4xokjw3cobj4
+
+- `Constitution.linked.md`: bafybeignqj2gz3annh2j676bibitjrf4dk2kwoqruwgc4xsww5qznlj4je
+- `contracts/GuardianContract.linked.md`: bafybeifcmxvuphbq5xj3bimtjrweykw4uejpxikz75uy4mdpmf6pqedv6i
+- `contracts/JudgeContract.linked.md`: bafybeidxrb5lfy6dtoze6i6diwr2mk6lplpy522k73ied76fi6ifu2jv4e
+- `contracts/DisputeResolutionProcess.linked.md`: bafybeiek6b4xj5alulkffe63w33b6cdbe2jtj6zxwmumu77l6d2yfbrasm
+- `shared/DisputeResolutionClause.linked.md`: bafybeiferykmgk62mecydwogofwuvvchu7b47ucntznvqnaxg6tgvaxzlm
 - `shared/NATION.linked.md`: bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte
 - `shared/FinalizationWithDAO.linked.md`: bafybeiefaibghs6ixh54cn4h6fdjbongkimzmhyh6rst6lre4sx4unyi2m
 - `shared/primitives/Basic.linked.md`: bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq
