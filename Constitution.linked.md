@@ -413,12 +413,10 @@ The DAO commits to implement the following amendments to this Constitution and t
 
 ### Governance Process
 
-a) Removal of the Meta Guild and transition toward the Guardian Guild.
+a) Setting the Arbitrator Contract Address. A Meta Proposal to i) set the Arbitrator Contract Address to a correct Designated Smart Contract and ii) remove this clause, will be able to go through the Governance Process without being considered a Critical Impact Proposal, given that the Nation3 Jurisdiction cannot function without the Arbitrator Contract Address.
+#) Removal of the Meta Guild and transition toward the Guardian Guild.
 #) Incorporation of an anonymous voting mechanism with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
 #) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Multisig. This amendment shall be executed before June 2023.
 #) Making all Governance Proposals be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court. Thus removing the permission of the Supreme Court Multisig to submit Governance Proposals.
-
-### Citizenship
-
-a) Allowing every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its census of citizens.
+#) Allowing every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its census of citizens.
