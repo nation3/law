@@ -14,11 +14,11 @@ All documents are written in [Linked Markdown](https://linked.md).
 
 Current references to IPFS, for convenience:
 
-- `Constitution.linked.md`: bafybeiazrnzkjs4k6o3274pyqlwrslu4ahnv5hsiemsqb2iyslnb2hqhvq
-- `contracts/GuardianContract.linked.md`: bafybeibyhnsk2uxarudcjgc4foybvg5rgnlztgkplxmvskrtqai3pfqt7q
-- `contracts/JudgeContract.linked.md`: bafybeib5rrdbuv6ianut4d3lln3fb7q4b3w52stz2jzivzmcmpistvsjm4
-- `contracts/DisputeResolutionProcess.linked.md`: bafybeich2rbmenvstjf3aqfnizvt7ntvfrjholckbzx75qq7nn6aywxez4
-- `shared/DisputeResolutionClause.linked.md`: bafybeie356tzo6v4d56u7pxzajd5cqjcvlzucaacp57qbuezofzweaek5a
+- `Constitution.linked.md`: bafybeid22f3ypwsomnkp4wazg7kvf5hvqpjab6hwxvbfxmoi5rka5zymoi
+- `contracts/GuardianContract.linked.md`: bafybeig2ohfoj2yvcja7plkqmfk2is4ysrcsvtgyul7346ruamp3pxsbxa
+- `contracts/JudgeContract.linked.md`: bafybeifecyya2apbj6vzsjq2pj7j3vioip5h7g4e6mw2oualj5ejxwfg6e
+- `contracts/DisputeResolutionProcess.linked.md`: bafybeihs47moszoplvhuvhb2h4jfaoexvyhqeivvh5imxdn27alvttrkva
+- `shared/DisputeResolutionClause.linked.md`: bafybeigbni7yuimqruh7m4e666nb3fy3k67vzhc37xfyoqqf4yzllphrbq
 - `shared/NATION.linked.md`: bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte
 - `shared/FinalizationWithDAO.linked.md`: bafybeiefaibghs6ixh54cn4h6fdjbongkimzmhyh6rst6lre4sx4unyi2m
 - `shared/primitives/Basic.linked.md`: bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq

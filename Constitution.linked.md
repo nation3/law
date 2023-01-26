@@ -53,7 +53,7 @@ Supreme Court Judge
 : Member of the Supreme Court Multisig.
 
 Guardian Guild
-: Multisig deployed at [%Guardian Guild Address] responsible for overseeing fund allocation and other administrative governance tasks, composed of lawfully elected Citizens, each of which are bound by a Nation3 Jurisdiction Agreement with the DAO.
+: Multisig responsible for overseeing fund allocation and other administrative governance tasks, composed of lawfully elected Citizens, each of which are bound by a Nation3 Jurisdiction Agreement with the DAO.
 
 Meta Guild
 : Multisig deployed at [%Meta Guild Address] responsible for overseeing fund allocation and other administrative governance tasks until the Guardian Guild is operative.
