@@ -411,8 +411,6 @@ English is the official language of Nation3.
 
 The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources.
 
-### Governance Process
-
 a) Setting the Arbitrator Contract Address. A Meta Proposal to i) set the Arbitrator Contract Address to a correct Designated Smart Contract and ii) remove this clause, will be able to go through the Governance Process without being considered a Critical Impact Proposal, given that the Nation3 Jurisdiction cannot function without the Arbitrator Contract Address.
 #) Removal of the Meta Guild and transition toward the Guardian Guild.
 #) Incorporation of an anonymous voting mechanism with binding enactment on Ethereum.

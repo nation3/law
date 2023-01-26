@@ -2,13 +2,13 @@ NATION
 : Import definitions ipfs://bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte/NATION.linked.md
 
 Guardian Guild, DAO as Nation3 DAO
-: Import definitions ipfs://bafybeie7kvdb5nyoutdbp3g6xj4xsy22kiomysqonv5ptxwr5wgliaivia/Constitution.linked.md
+: Import definitions ipfs://bafybeiffzzv2v7rh7uzie4wyq7fyjiodap45rl3ypxwlxdmoxnac57ojb4/Constitution.linked.md
 
 Conflict of Interest, Collusion, Person
 : Import definitions ipfs://bafybeicr4fju6cvlv62tb4vme2eeg2lmi3xvvmqhtxiockn4uanvp43haq/Basic.linked.md
 
 Dispute Resolution Clause
-: Import ipfs://bafybeihdltbf6mhh5ad5wpkp67kepku74nfjnm6nhaxq6ysaqc4vzibvqq/DisputeResolutionClause.linked.md
+: Import ipfs://bafybeigjifoshclzcx4xqr5ial6hucrijl3bnayml6k2ypj65boxjky2ei/DisputeResolutionClause.linked.md
 
 Finalization Clause
 : Import ipfs://bafybeiefaibghs6ixh54cn4h6fdjbongkimzmhyh6rst6lre4sx4unyi2m/FinalizationWithDAO.linked.md
