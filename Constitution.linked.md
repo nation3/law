@@ -158,10 +158,10 @@ Arbitrator Contract Address
 : 0xCOMINGSOON
 
 Universal Declaration of Human Rights
-: ipfs://bafybeidcky6g64m6fcjc7i4xkfno3v7g3rmtsryczni3nekuamcb7rwrba
+: ipfs://bafybeidcky6g64m6fcjc7i4xkfno3v7g3rmtsryczni3nekuamcb7rwrba/UDHR.linked.md
 
 Universal Declaration of Animal Rights
-: ipfs://bafybeidtfbaz5ltszhunvf5m7ypdq5vyvhb6jakzncjfyp2eqxe4dj6p6m
+: ipfs://bafybeidtfbaz5ltszhunvf5m7ypdq5vyvhb6jakzncjfyp2eqxe4dj6p6m/UDAR.linked.md
 
 ---
 
