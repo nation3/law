@@ -390,7 +390,7 @@ a) The DAO shall elect Guardian Guild members once a year on the [%Guardian Guil
 
 ### Temporary role of Meta Guild
 
-The Meta Guild will assume all roles and responsibilities assigned to the Guardian Guild within the Constitution until the Guardian Guild is operational and a Meta Proposal is passed to define the Guardian Guild Multisig Address and remove this clause. Until then, the DAO and the Meta Guild shall do their best to oversee the work of contributors and handle their payments in the absence of funding streams.
+The Meta Guild will assume all roles and responsibilities assigned to the Guardian Guild within the Constitution until the Guardian Guild is operational and a Meta Proposal is passed to i) define the Guardian Guild Multisig Address ii) include the address in the Guardian Guild definition iii) remove this clause. Until then, the DAO and the Meta Guild shall do their best to oversee the work of contributors and handle their payments in the absence of funding streams.
 
 ### Representation Powers
 
