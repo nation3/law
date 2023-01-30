@@ -41,13 +41,13 @@ Jurisdiction Agreement
 : Contract governed by the laws of the Nation3 Jurisdiction.
 
 Supreme Court
-: Dispute resolution system running on Ethereum, abiding by this Constitution and the laws enacted by the DAO and operated by a Smart Contract at address [%Arbitrator Contract Address].
+: Dispute resolution system running on Ethereum, abiding by this Constitution and the laws enacted by the DAO and operated by a Smart Contract.
 
 Nested Court
 : Dispute resolution system ultimately governed by the Nation3 DAO and whose judgement can be appealed and ultimately taken for consideration to the Supreme Court.
 
 Supreme Court Multisig
-: Multisig authorized to submit judgements to the Supreme Court, composed of lawfully elected Citizens who are legal professionals, each of which are bound by a Nation3 Jurisdiction Agreement with the DAO..
+: Multisig authorized to submit judgements to the Supreme Court, composed of lawfully elected Citizens who are legal professionals, each of which are bound by a Nation3 Jurisdiction Agreement with the DAO.
 
 Supreme Court Judge
 : Member of the Supreme Court Multisig.
@@ -154,9 +154,6 @@ DAO Critical Agent Address
 Meta Guild Address
 : 0x7fFf737ae9FdDD6E28Fe8B8F0F4dE69Bb8e7a885
 
-Arbitrator Contract Address
-: 0xCOMINGSOON
-
 Universal Declaration of Human Rights
 : ipfs://bafybeidcky6g64m6fcjc7i4xkfno3v7g3rmtsryczni3nekuamcb7rwrba/UDHR.linked.md
 
@@ -221,7 +218,7 @@ a) Citizens are the ultimate governors of the DAO, as determined by this Constit
 #) All Citizens are equal before the law. There is no privilege among them.
 #) Every Citizen shall have the right to privacy. Everyone shall be entitled to protection against any unlawful interference in their private affairs and against encroachments on their honor, dignity and reputation.
 #) Every Citizen shall have the right to access all services provided by Nation3.
-#) Every Citizen shall be entitled to a fair hearing with a binding resolution within a [%Reasonable Dispute Resolution Time] before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of a Legal Proceeding within the Nation3 Jurisdiction involving them.
+#) Every Citizen shall be entitled to a fair hearing with a binding resolution within [%Reasonable Dispute Resolution Time] before a Nested Court or the Supreme Court for the determination of their rights and obligations, or in the event of a Legal Proceeding within the Nation3 Jurisdiction involving them.
 #) Every Citizen shall have the right to legal defense whenever their rights or legitimate interests are violated or endangered. Every Citizen shall have the right to be accompanied by legal counsel when appearing before Nation3 authorities.
 
 ### Citizenship Duties
@@ -233,9 +230,9 @@ a) Every Citizen shall uphold this Constitution.
 #) If any Citizen becomes aware that there is a Material Adverse Exception Event, such Citizen shall deliver to the other Citizens a notice describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief.
 #) No Citizen shall physically or verbally threat, harass, physically assault or perform a digital assault (such as hacking of personal devices or private data stealing) against another Citizen.
 #) No Citizen shall, without the prior written unanimous consent of the other Citizens, directly or indirectly take or attempt to take any of the following actions:
-i) Commence or continue any Legal Proceeding in a jurisdiction different than Nation3 Jurisdiction, assert any Claim or enforce any judgment or other Legal Order, in each case, that (1) is against or involves any other Citizens, (2) relates to this Constitution or the matters contemplated by this Constitution, the Designated Smart Contracts or the DAO, including, for the avoidance of doubt, any Legal Proceeding or Legal Order in rem pertaining to the DAO or any Legal Proceeding or Claim challenging the enforceability of any provision of this Constitution.
-#) Enter into any Contract that may obligate any Citizen or the DAO to: (1) create, perfect or enforce any Lien on, (2) pledge, hypothecate, grant an option or derivative security, swap or other instrument with respect to or (3) convey, sell, transfer or dispose of such DAO property or any right or interest of the DAO or any Citizen to or in such DAO property.
-#) Cause, assist, encourage or facilitate, a Material Adverse Exception Event.
+    i) Commence or continue any Legal Proceeding in a jurisdiction different than Nation3 Jurisdiction, assert any Claim or enforce any judgment or other Legal Order, in each case, that (1) is against or involves any other Citizens, (2) relates to this Constitution or the matters contemplated by this Constitution, the Designated Smart Contracts or the DAO, including, for the avoidance of doubt, any Legal Proceeding or Legal Order in rem pertaining to the DAO or any Legal Proceeding or Claim challenging the enforceability of any provision of this Constitution.
+    #) Enter into any Contract that may obligate any Citizen or the DAO to: (1) create, perfect or enforce any Lien on, (2) pledge, hypothecate, grant an option or derivative security, swap or other instrument with respect to or (3) convey, sell, transfer or dispose of such DAO property or any right or interest of the DAO or any Citizen to or in such DAO property.
+    #) Cause, assist, encourage or facilitate, a Material Adverse Exception Event.
 
 ### Acquiring Citizenship
 
@@ -349,11 +346,12 @@ a) The DAO shall elect Supreme Court Judges once a year on the [%Supreme Court J
 
 ### Specialized Courts
 
-The DAO shall create Specialized Nested Courts as deemed needed.
+The DAO shall create specialized Nested Courts as deemed needed.
 
 ### Appeal
 
-Parties of a Nation3 Jurisdiction Agreement might appeal the outcome ruled by the Supreme Court, after which the DAO shall intervene, review all evidence needed (which shall be made public after the appeal) and veto such outcome if it's ruled as wrong by the DAO. If vetoed, the Supreme Court shall put forward a new outcome.
+a) Parties of a Nation3 Jurisdiction Agreement might appeal the outcome ruled by the Supreme Court, after which the DAO shall intervene, review all evidence needed (which shall be made public after the appeal) and veto such outcome if it's ruled as wrong by the DAO. If vetoed, the Supreme Court shall put forward a new outcome.
+#) Appeals from the DAO to outcomes proposed by the Supreme Court shall not follow the standard Governance Process. Instead, appeals shall be proposed directly to the DAO on-chain.
 
 ## Legislature
 
@@ -411,7 +409,7 @@ English is the official language of Nation3.
 
 The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources.
 
-a) Setting the Arbitrator Contract Address. A Meta Proposal to i) set the Arbitrator Contract Address to a correct Designated Smart Contract and ii) remove this clause, will be able to go through the Governance Process without being considered a Critical Impact Proposal, given that the Nation3 Jurisdiction cannot function without the Arbitrator Contract Address.
+a) Setting the Arbitrator Contract Address. A Meta Proposal to i) set the Arbitrator Contract Address to a correct Designated Smart Contract ii) include the address in the Supreme Court definition iii) remove this clause, will be able to go through the Governance Process without being considered a Critical Impact Proposal, given that the Nation3 Jurisdiction cannot function without the Arbitrator Contract Address.
 #) Removal of the Meta Guild and transition toward the Guardian Guild.
 #) Incorporation of an anonymous voting mechanism with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
