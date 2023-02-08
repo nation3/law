@@ -16,7 +16,7 @@ Current references to IPFS, for convenience:
 
 - `Constitution.linked.md`: bafybeidfupkrpzch3gwryqnaevratjc2nabhfoibygn5mmdpaylzbmajqu
 - `contracts/GuardianContract.linked.md`: bafybeidfbehjcm52e7ko3aeit5qdlizaa4dnlrk2j3tlbzmdiy3qtllyjq
-- `contracts/JudgeContract.linked.md`: bafybeib62jplibjwx6t3irz3vnjwpfnwgxuooigkgvmjzcc5curpvcvqy4
+- `contracts/JudgeContract.linked.md`: bafybeia7iswhc7ztvmuh74veag2v6f2nvez6dxvtcht6p3w6tzxudf4i4m
 - `contracts/DisputeResolutionProcess.linked.md`: bafybeifc5mb3hk5woorlnjbnuzflfd23tcaydz7jsvh7wrglsyfdsbuw24
 - `shared/DisputeResolutionClause.linked.md`: bafybeidxtnkcnvjzdjsxsl7qa5l7srr4en3dia5e2gzlsjv45zj2fqh5fm
 - `shared/NATION.linked.md`: bafybeig27rf3y3t53gn7nilq7ljvdnofciyi6k4dbb5ywbnl2kcfa7wqte
