@@ -1,5 +1,5 @@
 Jurisdiction as Nation3 Jurisdiction, Supreme Court as Nation3 Supreme Court
-: Import definitions ipfs://bafybeidfupkrpzch3gwryqnaevratjc2nabhfoibygn5mmdpaylzbmajqu/Constitution.linked.md
+: Import definitions ipfs://bafybeicm4hbd5ozlvapns4ps4fwpx6ef6mwqfqogikpswjorkk45nor5uy/Constitution.linked.md
 
 ---
 
