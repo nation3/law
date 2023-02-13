@@ -20,7 +20,7 @@ Dispute Resolution Process
 : ipfs://bafybeifc5mb3hk5woorlnjbnuzflfd23tcaydz7jsvh7wrglsyfdsbuw24/DisputeResolutionProcess.linked.md
 
 Collateral Amount
-: 2 NATION upfront; committing to add 1 NATION each month until the total of 6 NATION is reached
+: 1.95 NATION upfront; committing to add 1 NATION each month until the total of 6 NATION is reached
 
 Monthly Compensation
 : 1 NATION
