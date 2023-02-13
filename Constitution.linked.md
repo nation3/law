@@ -41,7 +41,7 @@ Jurisdiction Agreement
 : Contract governed by the laws of the Nation3 Jurisdiction.
 
 Supreme Court
-: Dispute resolution system running on Ethereum, abiding by this Constitution and the laws enacted by the DAO and operated by a Smart Contract.
+: Dispute resolution system running on Ethereum, abiding by this Constitution and the laws enacted by the DAO and operated by one of the Designated Smart Contracts at [%Arbitrator Contract Address].
 
 Nested Court
 : Dispute resolution system ultimately governed by the Nation3 DAO and whose judgement can be appealed and ultimately taken for consideration to the Supreme Court.
@@ -150,6 +150,9 @@ DAO Agent Address
 
 DAO Critical Agent Address
 : 0x7B81e8D4e82796c9B76284Fa4d21E57b8B86A06c
+
+Arbitrator Contract Address
+: 0x1dBEFF62DFa113f7254AaB5772F1AC6E66F94e7e
 
 Meta Guild Address
 : 0x7fFf737ae9FdDD6E28Fe8B8F0F4dE69Bb8e7a885
@@ -409,8 +412,7 @@ English is the official language of Nation3.
 
 The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources.
 
-a) Setting the Arbitrator Contract Address. A Meta Proposal to i) set the Arbitrator Contract Address to a correct Designated Smart Contract ii) include the address in the Supreme Court definition iii) remove this clause, will be able to go through the Governance Process without being considered a Critical Impact Proposal, given that the Nation3 Jurisdiction cannot function without the Arbitrator Contract Address.
-#) Removal of the Meta Guild and transition toward the Guardian Guild.
+a) Removal of the Meta Guild and transition toward the Guardian Guild.
 #) Incorporation of an anonymous voting mechanism with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
 #) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Multisig. This amendment shall be executed before June 2023.
