@@ -2,6 +2,6 @@ North Star metric
 : Total Value Secured: [%Total Value Secured]
 
 Total Value Secured
-: Cumulative net value of all tokens that have been used/are currently used as collateral for a Nation3 agreement, measured in BTC.
+: Cumulative net value of all tokens previously and currently used as collateral for Nation3 agreements, measured in BTC.
 
 ---
