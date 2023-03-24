@@ -320,7 +320,7 @@ a) Every Citizen shall be able to submit Governance Proposals.
 #) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The required voting support will be [%Proposal Voting Support] and no minimum voting quorum will be imposed, except for Critical Impact Proposals.
 #) Governance Proposals approved by Citizens shall be ratified by veNATION Holders in the DAO.
 #) The Ops Multisig, following the will of the Citizens, shall be able to submit Governance Proposals created by Citizens to the Voting Platform and to the DAO.
-#) In the case of the Ops Multisig being technically unable to submit Governance Proposals to the Voting Platform and/or to the DAO, the Supreme Court Multisig shall be able to submit them to both.
+#) In the case of the Ops Multisig being technically unable to submit Governance Proposals to the Voting Platform and/or to the DAO, the Guardian Multisig shall be able to submit them to both.
 
 ### Critical Impact Proposals
 
