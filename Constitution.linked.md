@@ -52,11 +52,11 @@ Supreme Court Multisig
 Supreme Court Judge
 : Member of the Supreme Court Multisig.
 
-Guardian Guild
-: Multisig responsible for overseeing fund allocation and other administrative governance tasks, composed of lawfully elected Citizens, each of which are bound by a Nation3 Jurisdiction Agreement with the DAO.
+Guardian Multisig
+: Multisig deployed at [%Guardian Multisig Address] responsible for overseeing fund allocation, composed of lawfully elected Citizens, each of which are bound by a Nation3 Jurisdiction Agreement with the DAO.
 
-Meta Guild
-: Multisig deployed at [%Meta Guild Address] responsible for overseeing fund allocation and other administrative governance tasks until the Guardian Guild is operative.
+Ops Multisig
+: Multisig deployed at [%Ops Multisig Address] responsible for carrying out multiple administrative tasks.
 
 Agent Smart Contract
 : Smart contract able to interact with other Smart Contracts and thus represent the DAO in Ethereum.
@@ -115,7 +115,7 @@ Critical Impact Proposal Quorum Support
 Supreme Court Judge Elections Day
 : 5th of November
 
-Guardian Guild Elections Day
+Guardian Multisig Elections Day
 : 5th of May
 
 Natural Calendar Quarter
@@ -154,8 +154,11 @@ DAO Critical Agent Address
 Arbitrator Contract Address
 : 0x1dBEFF62DFa113f7254AaB5772F1AC6E66F94e7e
 
-Meta Guild Address
+Ops Multisig Address
 : 0x7fFf737ae9FdDD6E28Fe8B8F0F4dE69Bb8e7a885
+
+Guardian Multisig Address
+: 0x87eD778d6b627478b2da921D350583B5E14808a0
 
 Universal Declaration of Human Rights
 : ipfs://bafybeidcky6g64m6fcjc7i4xkfno3v7g3rmtsryczni3nekuamcb7rwrba/UDHR.linked.md
@@ -233,9 +236,9 @@ a) Every Citizen shall uphold this Constitution.
 #) If any Citizen becomes aware that there is a Material Adverse Exception Event, such Citizen shall deliver to the other Citizens a notice describing in reasonable detail the events, facts, circumstances and reasons forming the basis of such belief.
 #) No Citizen shall physically or verbally threat, harass, physically assault or perform a digital assault (such as hacking of personal devices or private data stealing) against another Citizen.
 #) No Citizen shall, without the prior written unanimous consent of the other Citizens, directly or indirectly take or attempt to take any of the following actions:
-    i) Commence or continue any Legal Proceeding in a jurisdiction different than Nation3 Jurisdiction, assert any Claim or enforce any judgment or other Legal Order, in each case, that (1) is against or involves any other Citizens, (2) relates to this Constitution or the matters contemplated by this Constitution, the Designated Smart Contracts or the DAO, including, for the avoidance of doubt, any Legal Proceeding or Legal Order in rem pertaining to the DAO or any Legal Proceeding or Claim challenging the enforceability of any provision of this Constitution.
-    #) Enter into any Contract that may obligate any Citizen or the DAO to: (1) create, perfect or enforce any Lien on, (2) pledge, hypothecate, grant an option or derivative security, swap or other instrument with respect to or (3) convey, sell, transfer or dispose of such DAO property or any right or interest of the DAO or any Citizen to or in such DAO property.
-    #) Cause, assist, encourage or facilitate, a Material Adverse Exception Event.
+i) Commence or continue any Legal Proceeding in a jurisdiction different than Nation3 Jurisdiction, assert any Claim or enforce any judgment or other Legal Order, in each case, that (1) is against or involves any other Citizens, (2) relates to this Constitution or the matters contemplated by this Constitution, the Designated Smart Contracts or the DAO, including, for the avoidance of doubt, any Legal Proceeding or Legal Order in rem pertaining to the DAO or any Legal Proceeding or Claim challenging the enforceability of any provision of this Constitution.
+#) Enter into any Contract that may obligate any Citizen or the DAO to: (1) create, perfect or enforce any Lien on, (2) pledge, hypothecate, grant an option or derivative security, swap or other instrument with respect to or (3) convey, sell, transfer or dispose of such DAO property or any right or interest of the DAO or any Citizen to or in such DAO property.
+#) Cause, assist, encourage or facilitate, a Material Adverse Exception Event.
 
 ### Acquiring Citizenship
 
@@ -299,7 +302,7 @@ Other than the representations and warranties of other Citizens expressly set fo
 Every Citizen shall have the right to vote on Governance Proposals to:
 a) Amend this Constitution.
 #) Enact, amend and dismiss laws.
-#) Elect and dismiss members of the Guardian Guild and the Supreme Court Multisig.
+#) Elect and dismiss members of the Guardian Multisig and the Supreme Court Multisig.
 #) Operate DAO Agent and DAO Critical Agent on Ethereum.
 
 ### Voting Weights
@@ -316,8 +319,8 @@ All Governance Proposals must clearly specify how they plan to increase the Nort
 a) Every Citizen shall be able to submit Governance Proposals.
 #) Governance Proposals shall be subject to a voting period of [%Voting Period] in which any Citizen can vote on them. Voting shall be conducted on Voting Platform. The required voting support will be [%Proposal Voting Support] and no minimum voting quorum will be imposed, except for Critical Impact Proposals.
 #) Governance Proposals approved by Citizens shall be ratified by veNATION Holders in the DAO.
-#) The Guardian Guild, following the will of the Citizens, shall be able to submit Governance Proposals created by Citizens to the Voting Platform and to the DAO.
-#) In the case of the Guardian Guild being technically unable to submit Governance Proposals to the Voting Platform and/or to the DAO, the Supreme Court Multisig shall be able to submit them to both.
+#) The Ops Multisig, following the will of the Citizens, shall be able to submit Governance Proposals created by Citizens to the Voting Platform and to the DAO.
+#) In the case of the Ops Multisig being technically unable to submit Governance Proposals to the Voting Platform and/or to the DAO, the Supreme Court Multisig shall be able to submit them to both.
 
 ### Critical Impact Proposals
 
@@ -379,19 +382,15 @@ The Executive power shall be vested in the Citizens through the DAO.
 The DAO can, as deemed convenient, delegate executive powers to contributors.
 
 All Expense Governance Proposals must follow this process:
-a) The DAO shall create a payment stream to the contributor, with the Guardian Guild being able to pause such stream.
-#) The Guardian Guild shall release funds from the stream, only after ensuring that the deliverables, as stated by the Contributor to the DAO, are indeed delivered.
-#) The Contributor might dispute the Guardian Guild’s judgment on the subject and take the matter to a Nested Court or to the Supreme Court.
+a) The DAO shall create a payment stream to the contributor, with the Guardian Multisig being able to pause such stream.
+#) The Guardian Multisig shall release funds from the stream, only after ensuring that the deliverables, as stated by the Contributor to the DAO, are indeed delivered.
+#) The Contributor might dispute the Guardian Multisig’s judgment on the subject and take the matter to a Nested Court or to the Supreme Court.
 
-### Appointment of Guardian Guild members
+### Appointment of Guardian Multisig members
 
-a) The DAO shall elect Guardian Guild members once a year on the [%Guardian Guild Elections Day]. The DAO reserves the right to set a different date and frequency of elections during the first year of the Guardian Guild's existence.
-#) The DAO shall not elect or dismiss a Guardian Guild member arbitrarily.
-#) The DAO shall dismiss a Guardian Guild member in case of breach or finalization, as described in a Nation3 Jurisdiction Agreement between the DAO and the Guardian Guild member. A new election shall be run to elect a new member to replace the dismissed one.
-
-### Temporary role of Meta Guild
-
-The Meta Guild will assume all roles and responsibilities assigned to the Guardian Guild within the Constitution until the Guardian Guild is operational and a Meta Proposal is passed to i) define the Guardian Guild Multisig Address ii) include the address in the Guardian Guild definition iii) remove this clause. Until then, the DAO and the Meta Guild shall do their best to oversee the work of contributors and handle their payments in the absence of funding streams.
+a) The DAO shall elect Guardian Multisig members once a year on the [%Guardian Multisig Elections Day]. The DAO reserves the right to set a different date and frequency of elections during the first year of the Guardian Multisig's existence.
+#) The DAO shall not elect or dismiss a Guardian Multisig member arbitrarily.
+#) The DAO shall dismiss a Guardian Multisig member in case of breach or finalization, as described in a Nation3 Jurisdiction Agreement between the DAO and the Guardian Multisig member. A new election shall be run to elect a new member to replace the dismissed one.
 
 ### Representation Powers
 
@@ -412,9 +411,8 @@ English is the official language of Nation3.
 
 The DAO commits to implement the following amendments to this Constitution and the Designated Smart Contracts, once technically possible and reasonable considering available development resources.
 
-a) Removal of the Meta Guild and transition toward the Guardian Guild.
-#) Incorporation of an anonymous voting mechanism with binding enactment on Ethereum.
+a) Incorporation of an anonymous voting mechanism with binding enactment on Ethereum.
 #) Transferring the ratification power of veNATION Holders to Citizens.
-#) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Guild and the Supreme Court Multisig. This amendment shall be executed before June 2023.
+#) Allowing Citizens to enforce on Ethereum the election and dismissal of members of the Guardian Multisig and the Supreme Court Multisig. This amendment shall be executed before June 2023.
 #) Making all Governance Proposals be subject to a period of [%Proposal Dispute Period] in which any Citizen might dispute their constitutionality or alignment with North Star Metrics in a Nested Court or the Supreme Court. Thus removing the permission of the Supreme Court Multisig to submit Governance Proposals.
 #) Allowing every Citizen to keep their citizenship private to the public, while allowing Nation3 to cryptographically prove its census of citizens.
