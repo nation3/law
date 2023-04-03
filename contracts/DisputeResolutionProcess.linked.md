@@ -28,6 +28,8 @@ Evidence Submission Time Window
 Outcome Proposal Time Window
 : 4 days
 
+Etherscan
+: https://etherscan.io/verifiedSignatures
 ---
 
 # Dispute resolution process
@@ -37,7 +39,7 @@ The process is as follows:
 1. The claimant disputes the agreement on-chain.
 2. Then, the Parties have [%Evidence Submission Time Window] to submit any evidence that might be needed for the Judges to resolve the dispute by proposing their desired outcome.
 3. After the Evidence Submission Time Window ends, the Supreme Court Multisig has [%Outcome Proposal Time Window] to put forward their desired settlement outcome.
-4. Once a settlement proposal has been put forth by the Supreme Court Multisig, any of the Parties can appeal such proposal. The time window for the appeal process is encoded in the Designated Smart Contracts.
+4. Once a settlement proposal has been put forth by the Supreme Court Multisig, any of the Parties can appeal such proposal. The time window for the appeal process is encoded in the Designated Smart Contracts.
 5. A non-appealed settlement proposal will be enforceable and final, as encoded in the Designated Smart Contracts.
 
 ## Evidence submission process
@@ -69,3 +71,12 @@ The Supreme Court Multisig might decide to publish anonymized data about the cas
 #### Platform malfunction
 
 In case of a malfunction within Skiff, the Supreme Court Multisig will post a joint statement declaring the use of Ethermail instead of Skiff. All Parties and Judges shall continue adhering to the same procedures detailed for Skiff, but instead of using their Skiff Ethereum alias, they must use their Ethermail address.
+
+## Appeal process
+
+Currently, the parties have the right to appeal the outcome of the outcome, being the DAO the one that decides if it proceeds.
+
+1.  Once a settlement proposal has been put forth by the Supreme Court Multisig, any of the Parties can appeal such proposal within a 4-day window which is encoded in the Designated Smart Contracts.
+2. If the settlement is appealed by one of the parties, they have to submit their claims towards the DAO through a forum post, including all the relevant information plus a signed message on Etherscan to proof they are the owners of said wallet.
+3. The counterparty is allowed and encouraged to do the same in reply to the appellant's post.
+4. Parties have a total of xxxxxx days to present their appeal 
