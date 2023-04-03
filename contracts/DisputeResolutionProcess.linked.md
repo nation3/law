@@ -79,4 +79,6 @@ Currently, the parties have the right to appeal the outcome of the outcome, bein
 1.  Once a settlement proposal has been put forth by the Supreme Court Multisig, any of the Parties can appeal such proposal within a 4-day window which is encoded in the Designated Smart Contracts.
 2. If the settlement is appealed by one of the parties, they have to submit their claims towards the DAO through a forum post, including all the relevant information plus a signed message on Etherscan to proof they are the owners of said wallet.
 3. The counterparty is allowed and encouraged to do the same in reply to the appellant's post.
-4. Parties have a total of xxxxxx days to present their appeal 
+4. Parties have a total of xxxxxx days to present their evidence in the forum. Once this time window passes, the DAO has to vote on the outcome, they have 2 days to do so.
+5. If they vote in favor of the appellant, then the Judges have to emit a resolution with a different outcome, and part of their funds could be slashed if the DAO determines that this appeal was related to a case of corruption or lack of due process.
+6. If the DAO decides that the settlement was fair, then the decision of the Judges is executed. 
