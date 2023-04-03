@@ -42,17 +42,17 @@ The process is as follows:
 
 ## Evidence submission process
 
-For Parties to open a dispute, respond to a claim or otherwise engage with a disputed agreement, they will need an Skiff Ethereum alias created by [linking their Ethereum account within Skiff](https://skiff.com/blog/ethereum-wallet-email).
+For Parties to open a dispute, respond to a claim or otherwise engage with a disputed agreement, they will have to either 1) specify which means they want to be contacted through on their agreement (email, discord, telegram, etc.) or 2) else generate an Skiff Ethereum alias created by [linking their Ethereum account within Skiff](https://skiff.com/blog/ethereum-wallet-email). 
 
 ### Communicating with judges
 
 #### Communication mechanism
 
-The only valid communication mechanism between Parties and Judges is Skiff. Parties and Judges shall only communicate with their Skiff Ethereum alias.
+The only valid communication mechanism between Parties and Judges is Skiff. Parties and Judges shall only communicate with their Skiff Ethereum alias. Unless they specify other means on their agreement.
 
 #### Evidence submission
 
-Any evidence to support claims or respond to them must be attached to emails within Skiff. Any evidence over 25MB will be sent using Tresorit Send. Only Parties can submit evidence related to a dispute or participate in the dispute process.
+Any evidence to support claims or respond to them must be attached to emails within Skiff. Any evidence over 25MB will be sent using Tresorit Send. Only Parties can submit evidence related to a dispute or participate in the dispute process. Unless they specify other means on their agreement.
 
 #### Privacy
 
