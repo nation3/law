@@ -39,11 +39,11 @@ Time Windows
 
 The process is as follows:
 
-1. The claimant disputes the agreement on-chain.
-2. Then, the Parties have [%Evidence Submission Time Window] to submit any evidence that might be needed for the Judges to resolve the dispute by proposing their desired outcome.
+1. The claimant disputes the agreement on-chain, submitting claims and evidence to the judges and notifying all the counterparties.
+2. The [%Evidence Submission Time Window] from the moment the judges confirm the reception of the dispute and proper notification to all parties involved/
 3. After the Evidence Submission Time Window ends, the Supreme Court Multisig has [%Outcome Proposal Time Window] to put forward their desired settlement outcome.
 4. Once a settlement proposal has been put forth by the Supreme Court Multisig, any of the Parties can appeal such proposal. The time window for the appeal process is encoded in the Designated Smart Contracts.
-5. A non-appealed settlement proposal will be enforceable and final, as encoded in the Designated Smart Contracts.
+5. If the settlement proposal is not appealed within the specified time window, or it is endorsed after an appeal dismissal, it will be enforceable and final, as encoded in the Designated Smart Contracts.
 
 ## Extension for Time Windows
 Parties may agree upon an extension of the Evidence Submission Time Window and Outcome Proposal Time Window in their agreements. However, the total combined duration of both time windows, as agreed upon by the parties, shall not exceed 21 days. If the parties fail to specify the duration of the extended time windows, the default durations of 5 days for the Evidence Submission Time Window and 4 days for the Outcome Proposal Time Window will apply. If the parties specify a combined duration that exceeds 21 days, a 14-day Evidence Submission Time Window and a 7-day Outcome Proposal Time Window will be applied instead.
