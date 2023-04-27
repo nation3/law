@@ -85,11 +85,13 @@ All communications, evidence submissions, appeals, and any other relevant docume
 ## Appeal Process
 Appeals are only allowed in cases involving procedural issues. The parties have the right to appeal the outcome, with the DAO deciding if the appeal proceeds.
 1. Once a settlement proposal has been put forth by the Supreme Court Multisig, any of the Parties can appeal such proposal within a 4-day window, which is encoded in the Designated Smart Contracts, if they believe there is a procedural limited to:
-   a. Deadlines not being respected by the Judges.
-   b. Parties weren't notified properly.
-   c. If one of the Judges leaks confidential information.
-   d. If one of the Parties has evidence that one of the Judges was biased or bribed.
-   e. Parties didn't have the opportunity to present their case.
+
+a. Deadlines not being respected by the Judges.
+b. Parties weren't notified properly.
+c. If one of the Judges leaks confidential information.
+d. If one of the Parties has evidence that one of the Judges was biased or bribed.
+e. Parties didn't have the opportunity to present their case.
+
 2. If the settlement is appealed by one of the parties, they have to submit their claims towards the DAO through a forum post, including all the relevant information, plus a signed message on Etherscan to prove they are the owners of the said wallet. The claims must focus on the procedural issues in question if anything related to the substance of the dispute is disclosed then the appeal won't proceed. The counterparty is allowed and encouraged to do the same in reply to the appellant's post.
 3. Parties have a total of 4 days to present their evidence in the forum. Once this time window passes, the DAO has to vote on the outcome; they have 2 days to do so.
 4. If the DAO votes in favor of the appellant, then the Judges have to emit a resolution with a different outcome, and Judges could be either slashed or replaced by the DAO depending on the severity of the issue. If one Judge was bribed or engaged in fraudulent behaviour, they will be removed and their agreement with the DAO terminated, resulting in the immediate slashing of their collateral.
