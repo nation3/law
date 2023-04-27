@@ -87,9 +87,13 @@ Appeals are only allowed in cases involving procedural issues. The parties have 
 1. Once a settlement proposal has been put forth by the Supreme Court Multisig, any of the Parties can appeal such proposal within a 4-day window, which is encoded in the Designated Smart Contracts, if they believe there is a procedural limited to:
 
 a. Deadlines not being respected by the Judges.
+
 b. Parties weren't notified properly.
+
 c. If one of the Judges leaks confidential information.
+
 d. If one of the Parties has evidence that one of the Judges was biased or bribed.
+
 e. Parties didn't have the opportunity to present their case.
 
 2. If the settlement is appealed by one of the parties, they have to submit their claims towards the DAO through a forum post, including all the relevant information, plus a signed message on Etherscan to prove they are the owners of the said wallet. The claims must focus on the procedural issues in question if anything related to the substance of the dispute is disclosed then the appeal won't proceed. The counterparty is allowed and encouraged to do the same in reply to the appellant's post.
