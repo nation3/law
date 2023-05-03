@@ -11,7 +11,7 @@ Skiff
 : skiff.com by Skiff World, Inc.
 
 Skiff Ethereum alias
-: A valid Ethereum address or ENS name followed by `@ethereum.email` linked to an account created on Skiff.
+: A valid Ethereum address or ENS name followed by `@skiff.com` linked to an account created on Skiff.
 
 Ethermail
 : ethermail.io by EtherMail GmbH
