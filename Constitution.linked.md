@@ -17,7 +17,7 @@ Manifesto
 : https://nation3.org/manifesto
 
 DAO
-: Decentralized Autonomous Organization governed by Citizens pushing forward the vision outlined in the Manifesto, running on Ethereum at address [%DAO Address].
+: Decentralized Autonomous Organization governed by Citizens pushing forward the vision outlined in the Manifesto, running on Ethereum at address [%DAO Agent Address].
 
 Citizen
 : Natural Person owning a Passport after entering a Nation3 Jurisdiction Agreement with the Nation3 DAO to honor the terms outlined in this Constitution.
@@ -64,11 +64,8 @@ Agent Smart Contract
 DAO Agent
 : Agent Smart Contract on [%DAO Agent Address]
 
-DAO Critical Agent
-: Agent Smart Contract on [%DAO Critical Agent Address]
-
 Designated Smart Contracts
-: Every Smart Contract that governs and/or is governed by DAO Agent and DAO Critical Agent.
+: Every Smart Contract that governs and/or is governed by DAO Agent.
 
 Material Adverse Exception Event
 : If one or more of the following has occurred, is occurring or would reasonably be expected to occur (i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contracts; (ii) the Designated Smart Contracts having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contracts or any other Smart Contract or oracle on which the Designated Smart Contracts depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis; (iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contracts as the result of any bug, defect or error in the Designated Smart Contracts or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause "(iii)", a bug, defect or error will be deemed material only if it results in a loss to a Citizen or the DAO of at least 50% percent of such Citizen's distributable interest in the DAO Property and/or 50% percent of the DAO Property); (iv) any unauthorized use of an administrative function or privilege of the Designated Smart Contracts, including any use of any administrative credential, key, password, account or address by a person who has misappropriated or gained unauthorized access to such administrative credential, key, password, account or address.
@@ -98,7 +95,7 @@ Governance Proposals
 : Any of Meta Proposal, Law Proposal, Expense Proposal, Parameter Change Proposal, Treasury Management Proposal or Custodial Treasury Management Proposal.
 
 Critical Impact Proposals
-: Meta Proposals, Law Proposals and all Governance Proposals that originate an Ethereum transaction from DAO Critical Agent.
+: Meta Proposals, Law Proposals and all Governance Proposals that originate an Ethereum transaction from DAO Agent.
 
 Voting Platform
 : Snapshot, accessible at https://vote.nation3.org or http://snapshot.org/#/nation3.eth
@@ -142,14 +139,8 @@ veNATION Address
 Passport Address
 : 0x3337dac9F251d4E403D6030E18e3cfB6a2cb1333
 
-DAO Address
-: 0xC4E83d84Ca6F75c5b1D74CaA9DAD0d788c5ECa33
-
 DAO Agent Address
-: 0x336252602b3a8A0bE336ED942228305173E8082B
-
-DAO Critical Agent Address
-: 0x7B81e8D4e82796c9B76284Fa4d21E57b8B86A06c
+: 0xD1EDE41DeB03A23CCB325312DE8e5BF240881f53
 
 Arbitrator Contract Address
 : 0x1dBEFF62DFa113f7254AaB5772F1AC6E66F94e7e
@@ -300,7 +291,7 @@ Every Citizen shall have the right to vote on Governance Proposals to:
 a) Amend this Constitution.
 #) Enact, amend and dismiss laws.
 #) Elect and dismiss members of the Guardian Guild and the Supreme Court Multisig.
-#) Operate DAO Agent and DAO Critical Agent on Ethereum.
+#) Operate DAO Agent on Ethereum.
 
 ### Voting Weights
 
