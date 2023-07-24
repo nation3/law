@@ -17,7 +17,7 @@ Manifesto
 : https://nation3.org/manifesto
 
 DAO
-: Decentralized Autonomous Organization governed by Citizens pushing forward the vision outlined in the Manifesto, running on Ethereum at address [%DAO Address].
+: Decentralized Autonomous Organization governed by Citizens pushing forward the vision outlined in the Manifesto, running on Ethereum at address [%DAO Agent Address].
 
 Citizen
 : Natural Person owning a Passport after entering a Nation3 Jurisdiction Agreement with the Nation3 DAO to honor the terms outlined in this Constitution.
@@ -141,9 +141,6 @@ veNATION Address
 
 Passport Address
 : 0x3337dac9F251d4E403D6030E18e3cfB6a2cb1333
-
-DAO Address
-: 0xC4E83d84Ca6F75c5b1D74CaA9DAD0d788c5ECa33
 
 DAO Agent Address
 : 0xD1EDE41DeB03A23CCB325312DE8e5BF240881f53
