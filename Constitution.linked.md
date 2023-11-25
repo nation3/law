@@ -110,7 +110,7 @@ Critical Impact Proposal Voting Support
 : 66%
 
 Critical Impact Proposal Quorum Support
-: 20%
+: 10%
 
 Supreme Court Judge Elections Day
 : 5th of November
