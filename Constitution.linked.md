@@ -143,10 +143,10 @@ Passport Address
 : 0x3337dac9F251d4E403D6030E18e3cfB6a2cb1333
 
 DAO Agent Address
-: 0xD1EDE41DeB03A23CCB325312DE8e5BF240881f53
+: nation3agent.dao.eth
 
 DAO Critical Agent Address
-: 0x7fFf737ae9FdDD6E28Fe8B8F0F4dE69Bb8e7a885
+: nation3.dao.eth
 
 Arbitrator Contract Address
 : 0x1dBEFF62DFa113f7254AaB5772F1AC6E66F94e7e
